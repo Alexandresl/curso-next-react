@@ -11,6 +11,7 @@
 	- [Seção 2: Revisão React](#seção-2-revisão-react)
 		- [7. Introdução ao módulo](#7-introdução-ao-módulo)
 			- [Objetivos do módulo](#objetivos-do-módulo)
+		- [8. Código fonte final](#8-código-fonte-final)
 
 ## Seção 1: Introdução
 
@@ -66,5 +67,11 @@ Bons estudos galera!
 - Componente com estado
 - Renderização condicional
 - Renderização de lista de componentes
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/a765296cd5ab2eadd6bc8c9992fe3600f0ebac4c)
+
+### 8. Código fonte final
+
+[Arquivo](arquivos/exercicios.zip)
 
 [Commit]()
