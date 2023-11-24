@@ -15,6 +15,7 @@
 		- [9. Criando o projeto](#9-criando-o-projeto)
 		- [10. Primeiro componente](#10-primeiro-componente)
 		- [11. Movendo o primeiro componente](#11-movendo-o-primeiro-componente)
+		- [12. JSX 01](#12-jsx-01)
 
 ## Seção 1: Introdução
 
@@ -102,5 +103,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/e35cfd72e01368b1b4fec0833738d10316fa090d)
 
 ### 11. Movendo o primeiro componente
+
+[Commit]()https://github.com/Alexandresl/curso-next-react/commit/6f45373d2136a445ea057c3163d9198217dad84e
+
+### 12. JSX 01
 
 [Commit]()
