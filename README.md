@@ -12,6 +12,7 @@
 		- [7. Introdução ao módulo](#7-introdução-ao-módulo)
 			- [Objetivos do módulo](#objetivos-do-módulo)
 		- [8. Código fonte final](#8-código-fonte-final)
+		- [9. Criando o projeto](#9-criando-o-projeto)
 
 ## Seção 1: Introdução
 
@@ -73,5 +74,9 @@ Bons estudos galera!
 ### 8. Código fonte final
 
 [Arquivo](arquivos/exercicios.zip)
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/47d12406a98a561459935fc421d1263dee8c28f0)
+
+### 9. Criando o projeto
 
 [Commit]()
