@@ -8,18 +8,31 @@
 		- [4. O que é Next.JS?](#4-o-que-é-nextjs)
 		- [5. Recado sobre TypeScript](#5-recado-sobre-typescript)
 		- [6. Aviso importante aos usuários de Windows](#6-aviso-importante-aos-usuários-de-windows)
+	- [Seção 2: Revisão React](#seção-2-revisão-react)
+		- [7. Introdução ao módulo](#7-introdução-ao-módulo)
+			- [Objetivos do módulo](#objetivos-do-módulo)
 
 ## Seção 1: Introdução
 
 ### 1. Introdução
 
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/a9ea3fd807359a8d6a95b5b16d3cdd934a8f24f4)
+
 ### 2. Visão geral do curso
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/c6c509fb9ca1d2c876df21d984ba6001a3ca6f9a)
 
 ### 3. Pré-requisitos
 
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/3759187bf2da3513d7480b9979c00a659718ed08)
+
 ### 4. O que é Next.JS?
 
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/aed5ccada9d7c88bd78984176b435151c6103128)
+
 ### 5. Recado sobre TypeScript
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/eaad09cf22e89c97c057d06a52fd08fe0a13eafe)
 
 ### 6. Aviso importante aos usuários de Windows
 
@@ -36,3 +49,22 @@ O primeiro problema é relacionado a Área de Trabalho, pois em alguns casos ela
 O segundo problema é relacionado ao OneDrive. Nas versões mais recentes do Windows o OneDrive é ativado por padrão e ele acaba deixando todas as pastas e arquivos criados no seu computador como arquivos em nuvem, ao invés de arquivos locais. Isso também acaba gerando erros em alguns ambientes. Para resolver isso é simples, basta desativar o OneDrive para a pasta do seu projeto ou desativar geral mesmo. Você escolhe.
 
 Bons estudos galera!
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/1c5e4298127d19a25de3d372eaec5705574fc7ff)
+
+## Seção 2: Revisão React
+
+### 7. Introdução ao módulo
+
+#### Objetivos do módulo
+
+- Criar um projeto Next.js
+- O básico de Next.js e React
+- Criar componentes funcionais
+- Propriedades de componentes
+- Comunicação entre componentes
+- Componente com estado
+- Renderização condicional
+- Renderização de lista de componentes
+
+[Commit]()
