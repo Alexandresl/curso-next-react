@@ -13,6 +13,7 @@
 			- [Objetivos do módulo](#objetivos-do-módulo)
 		- [8. Código fonte final](#8-código-fonte-final)
 		- [9. Criando o projeto](#9-criando-o-projeto)
+		- [10. Primeiro componente](#10-primeiro-componente)
 
 ## Seção 1: Introdução
 
@@ -78,5 +79,23 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/47d12406a98a561459935fc421d1263dee8c28f0)
 
 ### 9. Criando o projeto
+
+* Iniciar processo
+```
+npx create-next-app exercicios
+```
+
+Criar com as seguintes respostas:
+
+√ Would you like to use TypeScript? ... No / **Yes**
+√ Would you like to use ESLint? ... No / **Yes**
+√ Would you like to use Tailwind CSS? ... No / **Yes**
+√ Would you like to use `src/` directory? ... **No** / Yes
+√ Would you like to use App Router? (recommended) ... **No** / Yes
+√ Would you like to customize the default import alias (@/*)? ... **No** / Yes
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/942bbc4a60493547374b92044870db7ff3bd7052)
+
+### 10. Primeiro componente
 
 [Commit]()
