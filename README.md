@@ -33,6 +33,7 @@
 		- [27. Aplicando estilo CSS](#27-aplicando-estilo-css)
 		- [28. Projeto Tabuleiro 01](#28-projeto-tabuleiro-01)
 		- [29. Projeto Tabuleiro 02](#29-projeto-tabuleiro-02)
+		- [30. Projeto Tabuleiro 03](#30-projeto-tabuleiro-03)
 
 ## Seção 1: Introdução
 
@@ -192,5 +193,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/e426e6956a494caffafa2d42ba5cec035f602ee2)
 
 ### 29. Projeto Tabuleiro 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/f64785ca6171c409468fa81450b44d9512b4d456)
+
+### 30. Projeto Tabuleiro 03
 
 [Commit]()
