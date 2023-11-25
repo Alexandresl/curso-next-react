@@ -23,6 +23,7 @@
 		- [17. Desafio Lista - Resposta 1](#17-desafio-lista---resposta-1)
 		- [18. Desafio Lista - Resposta 2](#18-desafio-lista---resposta-2)
 		- [19. Desafio Lista - Resposta 3](#19-desafio-lista---resposta-3)
+		- [20. Fragment 01](#20-fragment-01)
 
 ## Seção 1: Introdução
 
@@ -142,5 +143,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/74e51c63f6e097e3a3cdc53f2ab6517b51477407)
 
 ### 19. Desafio Lista - Resposta 3
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/c7ac8f3232ef52a62b5db68f8f5502d50290a1d7)
+
+### 20. Fragment 01
 
 [Commit]()
