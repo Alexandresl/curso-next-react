@@ -2,12 +2,12 @@
 export default function lista2() {
   return (
     <div>
-      {gerarLista(10)}
+      {gerarLista()}
     </div>
   );
 }
 
-function gerarLista(qtd: number) {
+function gerarLista() {
 
   const lista = [
     <span>1, </span>,
