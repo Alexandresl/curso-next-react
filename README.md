@@ -18,6 +18,7 @@
 		- [12. JSX 01](#12-jsx-01)
 		- [13. JSX 02](#13-jsx-02)
 		- [14. JSX 03](#14-jsx-03)
+		- [15. JSX 04](#15-jsx-04)
 
 ## Seção 1: Introdução
 
@@ -117,5 +118,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/fb16c0cfa512488cadef2521de0c3fa9b1e78d87)
 
 ### 14. JSX 03
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/f90d8d03205aea0133ce3c9201051fc83ccbed4c)
+
+### 15. JSX 04
 
 [Commit]()
