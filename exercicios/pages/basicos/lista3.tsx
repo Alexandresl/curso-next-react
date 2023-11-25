@@ -4,7 +4,7 @@ export default function lista3 () {
 		<div>
 			{gerarLista(10)}
 		</div>
-	)
+	);
 
 }
 
