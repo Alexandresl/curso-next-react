@@ -27,6 +27,7 @@
 		- [21. Fragment 02](#21-fragment-02)
 		- [22. Usando o Componente](#22-usando-o-componente)
 		- [23. Propriedade componente](#23-propriedade-componente)
+		- [24. Integração com CSS 01](#24-integração-com-css-01)
 
 ## Seção 1: Introdução
 
@@ -162,5 +163,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/12528af874015e8202dd1b3bd148e63a46ab55bf)
 
 ### 23. Propriedade componente
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/de7bceadf3fcc69decd61a49d26f7db61b1a22c9)
+
+### 24. Integração com CSS 01
 
 [Commit]()
