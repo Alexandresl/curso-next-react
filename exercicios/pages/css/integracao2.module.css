@@ -1,9 +1,9 @@
 #integracao2 {
-	height: 100vh;
 	display: flex;
-	flex-direction: column;
+	height: 100vh;
 	justify-content: center;
 	align-items: center;
+	flex-direction: column;
 }
 
 .vermelha {
@@ -11,10 +11,10 @@
 }
 
 .azul {
-	color: #03f;
+	color: #03a;
 }
 
 .branca {
 	background-color: #444;
-	color: #fff;;
+	color: #fff;
 }

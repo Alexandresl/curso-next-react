@@ -1,8 +1,4 @@
-import { log } from "console";
-
-export default function Titulo(props: any) {
-  console.log(props);
-
+export default function Titulo(props) {
   return props.pequeno ? (
     <>
       <p>{props.principal}</p>

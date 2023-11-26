@@ -1,10 +1,10 @@
 import Estilo from "@/components/Estilo";
 
 export default function usandoEstilo () {
-	return (
+	return 	(
 		<>
 			<Estilo numero={3} color="#000" />
-			<Estilo numero={-13} color="#fff" direita/>
+			<Estilo numero={-13} color="#fff" direita />
 		</>
-	)
+	);
 }

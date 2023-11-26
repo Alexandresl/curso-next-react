@@ -36,6 +36,7 @@
 		- [30. Projeto Tabuleiro 03](#30-projeto-tabuleiro-03)
 		- [31. Projeto Tabuleiro 04](#31-projeto-tabuleiro-04)
 		- [32. Projeto Tabuleiro 05](#32-projeto-tabuleiro-05)
+		- [33. Repetição 01](#33-repetição-01)
 
 ## Seção 1: Introdução
 
@@ -207,5 +208,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/cf63645a75b1964eb04eae48f3fe01e3ae6b6f51)
 
 ### 32. Projeto Tabuleiro 05
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/1b35701fc13df894a53c6ead9885aac383e0aa87)
+
+### 33. Repetição 01
 
 [Commit]()

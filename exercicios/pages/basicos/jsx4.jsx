@@ -1,8 +1,6 @@
-export default function jsx4() {
-
-	const subtitulo = "Estou no Javascript!";
+export default function jsx4 () {
+	const subtitulo = "Estou no JavaScript";
 	const trechoH3 = <h3>{3 * 3}</h3>;
-
 	return (
 		<div>
 			<h1>Integração JS e JSX</h1>
@@ -14,12 +12,10 @@ export default function jsx4() {
 	);
 }
 
-function entre(valor: number, min: number, max: number) {
-
+function entre(valor, min, max) {
 	if (valor >= min && valor <= max) {
-		return "Sim";
+		return "Sim"
 	} else {
-		return "Não";
+		return "Não"
 	}
-
 }
