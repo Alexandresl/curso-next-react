@@ -4,11 +4,12 @@ export default function Subdivisao (props) {
 	return (
 		<div 
 			style={{
-				backgroundColor: props.preta ? "#000" : "#fff"
+				backgroundColor: props.preta ? "#000" : "#fff",
+				color: props.preta ? "#000" : "#fff"
 			}}
 			className={styles.subdivisao}
 		>
-
+			.
 		</div>
 	)
 }
