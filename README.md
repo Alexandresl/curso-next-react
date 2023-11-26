@@ -38,10 +38,13 @@
 		- [32. Projeto Tabuleiro 05](#32-projeto-tabuleiro-05)
 		- [33. Repetição 01](#33-repetição-01)
 		- [34. Repetição 02](#34-repetição-02)
+		- [35. Condicional 01](#35-condicional-01)
 
 ## Seção 1: Introdução
 
 ### 1. Introdução
+
+[Github curso](https://github.com/cod3rcursos/curso-nextjs)
 
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/a9ea3fd807359a8d6a95b5b16d3cdd934a8f24f4)
 
@@ -217,5 +220,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/1bae6d7c743c741a69bee07230ff9bd4f5262b1e)
 
 ### 34. Repetição 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/04b8c1a4e3b94b2dc02cd62e7b6bdc447c34762b)
+
+### 35. Condicional 01
 
 [Commit]()
