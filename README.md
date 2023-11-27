@@ -39,6 +39,7 @@
 		- [33. Repetição 01](#33-repetição-01)
 		- [34. Repetição 02](#34-repetição-02)
 		- [35. Condicional 01](#35-condicional-01)
+		- [36. Props Children](#36-props-children)
 
 ## Seção 1: Introdução
 
@@ -224,5 +225,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/04b8c1a4e3b94b2dc02cd62e7b6bdc447c34762b)
 
 ### 35. Condicional 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/2f09e5df15d61338a645689b4dd7c3a60f76a0f1)
+
+### 36. Props Children
 
 [Commit]()
