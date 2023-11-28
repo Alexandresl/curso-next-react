@@ -41,6 +41,7 @@
 		- [35. Condicional 01](#35-condicional-01)
 		- [36. Props Children](#36-props-children)
 		- [37. Condicional 02](#37-condicional-02)
+		- [38. Comunicação direta](#38-comunicação-direta)
 
 ## Seção 1: Introdução
 
@@ -234,5 +235,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/7fc5e5e22cb6bf4fc2fc407efeede096ecfa21ab)
 
 ### 37. Condicional 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/c22a5116c008218e676ae4511ceccf5062c31fbe)
+
+### 38. Comunicação direta
 
 [Commit]()
