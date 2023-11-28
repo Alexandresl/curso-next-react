@@ -42,6 +42,7 @@
 		- [36. Props Children](#36-props-children)
 		- [37. Condicional 02](#37-condicional-02)
 		- [38. Comunicação direta](#38-comunicação-direta)
+		- [39. Chamada de função via evento](#39-chamada-de-função-via-evento)
 
 ## Seção 1: Introdução
 
@@ -239,5 +240,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/c22a5116c008218e676ae4511ceccf5062c31fbe)
 
 ### 38. Comunicação direta
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/68080860a888c19dc2f88a7a8f7c93fe046913ee)
+
+### 39. Chamada de função via evento
 
 [Commit]()
