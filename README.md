@@ -44,6 +44,7 @@
 		- [38. Comunicação direta](#38-comunicação-direta)
 		- [39. Chamada de função via evento](#39-chamada-de-função-via-evento)
 		- [40. Comunicação indireta](#40-comunicação-indireta)
+		- [41. Componentes com estado](#41-componentes-com-estado)
 
 ## Seção 1: Introdução
 
@@ -249,5 +250,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/299186ea8140ba065467b5c5db1e7f0891bcf63b)
 
 ### 40. Comunicação indireta
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/0177f4a38e70aa11e8d455aeddab2943b756fbb2)
+
+### 41. Componentes com estado
 
 [Commit]()
