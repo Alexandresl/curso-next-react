@@ -45,6 +45,7 @@
 		- [39. Chamada de função via evento](#39-chamada-de-função-via-evento)
 		- [40. Comunicação indireta](#40-comunicação-indireta)
 		- [41. Componentes com estado](#41-componentes-com-estado)
+		- [42. Desafio contador](#42-desafio-contador)
 
 ## Seção 1: Introdução
 
@@ -254,5 +255,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/0177f4a38e70aa11e8d455aeddab2943b756fbb2)
 
 ### 41. Componentes com estado
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/a56c2d1ffc375656a97b107e11b6c646e1cdf8dc)
+
+### 42. Desafio contador
 
 [Commit]()

@@ -1,0 +1,33 @@
+.container {
+	background-color: #222;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	color: #fff;
+}
+
+.h1	{
+	margin-bottom: 5px;
+}
+
+.valor {
+	font-size: 1.8rem;
+}
+
+.valor > span {
+	color: teal;
+	font-size: 2rem;
+}
+
+.btn {
+	margin: 25px 0 0 0;
+	width: 150px;
+	height: 50px;
+	font-weight: bold;
+}
+
+.btn:hover {
+	background-color: slategray;
+}
