@@ -1,0 +1,70 @@
+.content {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	align-items: center;
+	padding: 100px;
+}
+
+.h1 {
+	margin-bottom: 15px;
+	color: #B8860B;
+}
+
+.numeros {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-bottom: 15px;
+	max-width: 600px;
+	color: sienna;
+}
+
+.num {
+	margin: 5px;
+	width: 60px;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 30px;
+	background-color: #B8860B66;
+	font-size: 1.4rem;
+	color: sienna;
+	font-weight: bold;
+	border: 1px solid #B8860B66;
+	box-sizing: border-box;
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.form span {
+	font-size: 1.2rem;
+	font-weight: bold;
+	color: #B8860B;
+	margin-bottom: 5px;
+}
+
+.form input {
+	height: 40px;
+	width: 100px;
+	font-size: 1.4rem;
+	font-weight: bold;
+	color: #B8860B;
+	border: 1px solid #B8860B66;
+	border-radius: 10px;
+	text-align: center;
+	margin-bottom: 20px;;
+}
+
+.form button {
+	padding: 15px;
+	background-color: #B8860B;
+	color: #fff;;
+	border: none;
+	border-radius: 10px;
+}

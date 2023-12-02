@@ -48,6 +48,7 @@
 		- [42. Desafio contador](#42-desafio-contador)
 		- [43. Desafio contador - Resposta](#43-desafio-contador---resposta)
 		- [44. Componentes controlados](#44-componentes-controlados)
+		- [45. Desafio Mega-Sena](#45-desafio-mega-sena)
 
 ## Seção 1: Introdução
 
@@ -270,4 +271,9 @@ Criar com as seguintes respostas:
 
 ### 44. Componentes controlados
 
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/5d6638c7fb6005d3218732f34619d16e4532b856)
+
+### 45. Desafio Mega-Sena
+
 [Commit]()
+
