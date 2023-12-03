@@ -55,6 +55,7 @@
 		- [49. Componente baseado em classe](#49-componente-baseado-em-classe)
 		- [50. Sistema módulo ECMAScript](#50-sistema-módulo-ecmascript)
 		- [51. Integrando TypeScript](#51-integrando-typescript)
+		- [52. Conclusão do Módulo](#52-conclusão-do-módulo)
 
 ## Seção 1: Introdução
 
@@ -304,5 +305,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/3cd9f4c3230a161577fee25e95a776bc538c42cd)
 
 ### 51. Integrando TypeScript
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/c48190e8f0a6912c63cdc89fa2e3b041ac466bc1)
+
+### 52. Conclusão do Módulo
 
 [Commit]()
