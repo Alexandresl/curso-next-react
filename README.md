@@ -60,6 +60,7 @@
 		- [53. Introdução do módulo](#53-introdução-do-módulo)
 		- [54. Código Fonte Final](#54-código-fonte-final)
 		- [55. Criando o projeto](#55-criando-o-projeto)
+		- [56. Estrutura do projeto](#56-estrutura-do-projeto)
 
 ## Seção 1: Introdução
 
@@ -329,5 +330,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/bce62065fa2590c9c9dca4ee87fda4c9c21054cc)
 
 ### 55. Criando o projeto
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/8bda6b1efce1d79daa46fcbf13d1a7340947b15e)
+
+### 56. Estrutura do projeto
 
 [Commit]()
