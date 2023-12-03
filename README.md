@@ -66,6 +66,7 @@
 		- [59. Rotas 02](#59-rotas-02)
 		- [60. Rotas 03](#60-rotas-03)
 		- [61. Navegando entre Páginas](#61-navegando-entre-páginas)
+		- [62. Navegando entre Páginas 02](#62-navegando-entre-páginas-02)
 
 ## Seção 1: Introdução
 
@@ -359,5 +360,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/89838b06dece25c8e2f3c6f8774f5d2ca023255d)
 
 ### 61. Navegando entre Páginas
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/79994c808655c70216a1d805c0297633b75d77e9)
+
+### 62. Navegando entre Páginas 02
 
 [Commit]()
