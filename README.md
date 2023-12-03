@@ -58,6 +58,7 @@
 		- [52. Conclusão do Módulo](#52-conclusão-do-módulo)
 	- [Seção 3: Fundamentos de Next.JS](#seção-3-fundamentos-de-nextjs)
 		- [53. Introdução do módulo](#53-introdução-do-módulo)
+		- [54. Código Fonte Final](#54-código-fonte-final)
 
 ## Seção 1: Introdução
 
@@ -317,5 +318,11 @@ Criar com as seguintes respostas:
 ## Seção 3: Fundamentos de Next.JS
 
 ### 53. Introdução do módulo
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/3f2aee0defed9f46155629a99ebbedccc280bed6)
+
+### 54. Código Fonte Final
+
+[Arquivo](/arquivos/nextbasico.zip)
 
 [Commit]()
