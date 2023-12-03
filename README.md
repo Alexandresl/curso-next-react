@@ -69,6 +69,7 @@
 		- [62. Navegando entre Páginas 02](#62-navegando-entre-páginas-02)
 		- [\[extra\] Instalando o nProgress](#extra-instalando-o-nprogress)
 		- [63. API 01](#63-api-01)
+		- [64. API 02](#64-api-02)
 
 ## Seção 1: Introdução
 
@@ -374,5 +375,9 @@ Criar com as seguintes respostas:
 [commit](https://github.com/Alexandresl/curso-next-react/commit/b4b3f62048f077754b3008a59203eeb9e43e1856)
 
 ### 63. API 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/e7818cf11035b0b06a738b88f29c1089e77e7b7f)
+
+### 64. API 02
 
 [Commit]()
