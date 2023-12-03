@@ -59,6 +59,7 @@
 	- [Seção 3: Fundamentos de Next.JS](#seção-3-fundamentos-de-nextjs)
 		- [53. Introdução do módulo](#53-introdução-do-módulo)
 		- [54. Código Fonte Final](#54-código-fonte-final)
+		- [55. Criando o projeto](#55-criando-o-projeto)
 
 ## Seção 1: Introdução
 
@@ -324,5 +325,9 @@ Criar com as seguintes respostas:
 ### 54. Código Fonte Final
 
 [Arquivo](/arquivos/nextbasico.zip)
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/bce62065fa2590c9c9dca4ee87fda4c9c21054cc)
+
+### 55. Criando o projeto
 
 [Commit]()
