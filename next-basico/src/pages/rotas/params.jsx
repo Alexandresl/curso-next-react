@@ -1,4 +1,5 @@
 import { useRouter } from "next/router";
+import Link from 'next/link'
 
 export default function params() {
 
@@ -7,11 +8,12 @@ export default function params() {
 	const nome = router.query.nome
 	const id = router.query.id
 
-	console.log(nome, id);
-
   return (
     <div>
       <h1>Rotas Params | Código {id} - Nome {nome}</h1>
+      <Link href={"/rotas"}>
+        <button>Voltar</button>
+      </Link>
     </div>
   );
 }
