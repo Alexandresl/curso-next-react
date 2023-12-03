@@ -1,5 +1,8 @@
 export function mega(qtd = 6, numeros = []) {
 
+	qtd = +qtd;
+
+
 	if (qtd < 6 && qtd > 60) {
 		throw "Quantidade inválida";
 	}

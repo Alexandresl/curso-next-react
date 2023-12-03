@@ -21,7 +21,6 @@ export default function MegaSenaMinhaSolucao() {
 
 				do {
 					n = Math.floor(Math.random() * 60 + 1);
-					console.log(n, arrayN.indexOf(n), arrayN.indexOf(n) >= 0);
 				} while (n === 0 || arrayN.indexOf(n) >= 0)
 				
 				arrayN.push(n);
