@@ -63,6 +63,7 @@
 		- [56. Estrutura do projeto](#56-estrutura-do-projeto)
 		- [57. Pasta Page](#57-pasta-page)
 		- [58. Rotas 01](#58-rotas-01)
+		- [59. Rotas 02](#59-rotas-02)
 
 ## Seção 1: Introdução
 
@@ -345,4 +346,8 @@ Criar com as seguintes respostas:
 
 ### 58. Rotas 01
 
-[Commit]()
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/50eb81da20f6a05b18dedb05404db160095ff542)
+
+### 59. Rotas 02
+
+[commit]()
