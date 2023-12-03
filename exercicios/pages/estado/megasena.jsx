@@ -5,10 +5,9 @@ import NumeroDisplay from "@/components/indireta1/NumeroDisplay";
 export default function megasena() {
 
   const [qtd, setQtd] = useState(6);
-  const [numeros, setNumeros] = useState(mega(qtd));
-  const [isClient, setIsClient] = useState(false);
-
-  useEffect(() => {setIsClient(true);}, []);
+  const [numeros, setNumeros] = useState([]);
+  
+  useEffect(() => {setNumeros(mega())}, []);
 
   function renderizarNumeros() {
     return numeros.map((numero) => (
@@ -27,7 +26,7 @@ export default function megasena() {
         display: "flex",
         justifyContent: "center",
         flexWrap: "wrap"
-      }}>{isClient ? renderizarNumeros() : ""}</div>
+      }}>{renderizarNumeros()}</div>
       <div>
         <input type="number" min={6} max={60} value={qtd} onChange={event => setQtd(event.target.value)} />
         <button onClick={() => setNumeros(mega(qtd))}>Sortear números</button>

@@ -51,6 +51,7 @@
 		- [45. Desafio Mega-Sena](#45-desafio-mega-sena)
 		- [46. Desafio Mega-Sena - Resposta 01](#46-desafio-mega-sena---resposta-01)
 		- [47. Desafio Mega-Sena - Resposta 02](#47-desafio-mega-sena---resposta-02)
+		- [48. Desafio Mega-Sena - Resposta 03](#48-desafio-mega-sena---resposta-03)
 
 ## Seção 1: Introdução
 
@@ -284,5 +285,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/0adfac100a67f79503ef9e9797b950415ee1379f)
 
 ### 47. Desafio Mega-Sena - Resposta 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/bde15fd5023f0af6f59240ef61c9e2d112e851ae)
+
+### 48. Desafio Mega-Sena - Resposta 03
 
 [Commit]()
