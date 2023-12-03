@@ -56,6 +56,8 @@
 		- [50. Sistema módulo ECMAScript](#50-sistema-módulo-ecmascript)
 		- [51. Integrando TypeScript](#51-integrando-typescript)
 		- [52. Conclusão do Módulo](#52-conclusão-do-módulo)
+	- [Seção 3: Fundamentos de Next.JS](#seção-3-fundamentos-de-nextjs)
+		- [53. Introdução do módulo](#53-introdução-do-módulo)
 
 ## Seção 1: Introdução
 
@@ -309,5 +311,11 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/c48190e8f0a6912c63cdc89fa2e3b041ac466bc1)
 
 ### 52. Conclusão do Módulo
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/c7c667b6d5a35d122c12e8a9e9e94d574ae171e3)
+
+## Seção 3: Fundamentos de Next.JS
+
+### 53. Introdução do módulo
 
 [Commit]()
