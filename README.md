@@ -61,6 +61,7 @@
 		- [54. Código Fonte Final](#54-código-fonte-final)
 		- [55. Criando o projeto](#55-criando-o-projeto)
 		- [56. Estrutura do projeto](#56-estrutura-do-projeto)
+		- [57. Pasta Page](#57-pasta-page)
 
 ## Seção 1: Introdução
 
@@ -334,5 +335,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/8bda6b1efce1d79daa46fcbf13d1a7340947b15e)
 
 ### 56. Estrutura do projeto
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/550db910ab38db203f506cb4562b204d3da9d376)
+
+### 57. Pasta Page
 
 [Commit]()
