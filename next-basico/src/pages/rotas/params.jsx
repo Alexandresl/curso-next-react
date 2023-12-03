@@ -9,7 +9,7 @@ export default function params() {
 	const id = router.query.id
 
   return (
-    <div>
+    <div className="page">
       <h1>Rotas Params | Código {id} - Nome {nome}</h1>
       <Link href={"/rotas"}>
         <button>Voltar</button>

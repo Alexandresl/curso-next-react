@@ -8,7 +8,7 @@ export default function nome () {
 	const nome = router.query.nome;
 
 	return (
-		<div>
+		<div className="page">
 			<h1>Rotas / {id} / {nome}</h1>
 			<Link href={"/rotas"}>
         <button>Voltar</button>

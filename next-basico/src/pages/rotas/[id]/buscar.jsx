@@ -7,7 +7,7 @@ export default function buscar () {
 	const id = router.query.id;
 
 	return (
-		<div>
+		<div className="page">
 			<h1>Rotas / {id} / Buscar</h1>
 			<Link href={"/rotas"}>
         <button>Voltar</button>

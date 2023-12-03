@@ -1,7 +1,21 @@
 import Link from "next/link";
 import router, { useRouter } from "next/router";
+import nProgress from "nprogress";
+
+router.events.on("routeChangeStart", (url) => {
+  console.log(`Loading: ${url}`);
+  nProgress.start();
+});
+router.events.on("routeChangeComplete", () => {
+  nProgress.done();
+});
+router.events.on("routeChangeError", () => {
+  nProgress.done();
+});
 
 export default function rotas() {
+
+  
 
   function navegacaoSimples(url) {
     router.push(url);
@@ -18,7 +32,7 @@ export default function rotas() {
   }
 
   return (
-    <div>
+    <div className="page">
       <h1>Rotas Index</h1>
       <ul>
         <Link href={"/rotas/params?id=12&nome=Ana"}>
