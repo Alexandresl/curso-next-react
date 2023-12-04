@@ -70,6 +70,7 @@
 		- [\[extra\] Instalando o nProgress](#extra-instalando-o-nprogress)
 		- [63. API 01](#63-api-01)
 		- [64. API 02](#64-api-02)
+		- [65. Integrando com API 01](#65-integrando-com-api-01)
 
 ## Seção 1: Introdução
 
@@ -379,5 +380,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/e7818cf11035b0b06a738b88f29c1089e77e7b7f)
 
 ### 64. API 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/3c1b61689fd06b11023b18012d8b0848574641cb)
+
+### 65. Integrando com API 01
 
 [Commit]()
