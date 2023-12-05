@@ -79,6 +79,7 @@
 		- [70. Introdução do módulo](#70-introdução-do-módulo)
 		- [71. Código Fonte Final](#71-código-fonte-final)
 	- [72. Visão geral da aplicação](#72-visão-geral-da-aplicação)
+		- [73. Criando o projeto](#73-criando-o-projeto)
 
 ## Seção 1: Introdução
 
@@ -424,5 +425,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/cc1a277fa51b721d5344b898d4c9973a60979f99)
 
 ## 72. Visão geral da aplicação
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/a62bf6de392e145a7fcd55ab22d4f94060c8ba55)
+
+### 73. Criando o projeto
 
 [Commit]()
