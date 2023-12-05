@@ -74,6 +74,7 @@
 		- [66. Integrando com API 02](#66-integrando-com-api-02)
 		- [67. API com Múltiplos Parâmetros](#67-api-com-múltiplos-parâmetros)
 		- [68. Estratégias de renderização](#68-estratégias-de-renderização)
+		- [69. Resolvendo Warnings](#69-resolvendo-warnings)
 
 ## Seção 1: Introdução
 
@@ -399,5 +400,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/97930e4f3a610e3401b49e9290101f3d32dbe4a6)
 
 ### 68. Estratégias de renderização
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/b37ce3b87ab49c96bb15fa3e232b1b75feae2d54)
+
+### 69. Resolvendo Warnings
 
 [Commit]()

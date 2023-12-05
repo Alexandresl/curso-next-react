@@ -10,7 +10,7 @@ export default function nome () {
 	return (
 		<div className="page">
 			<h1>Rotas / {id} / {nome}</h1>
-			<Link href={"/rotas"}>
+			<Link href={"/rotas"} passHref>
         <button>Voltar</button>
       </Link>
 		</div>

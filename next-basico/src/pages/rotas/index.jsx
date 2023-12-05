@@ -35,17 +35,17 @@ export default function rotas() {
     <div className="page">
       <h1>Rotas Index</h1>
       <ul>
-        <Link href={"/rotas/params?id=12&nome=Ana"}>
+        <Link href={"/rotas/params?id=12&nome=Ana"} passHref>
           <li>Params</li>
         </Link>
       </ul>
       <ul>
-        <Link href={"/rotas/123/buscar"}>
+        <Link href={"/rotas/123/buscar"} passHref>
           <li>Buscar</li>
         </Link>
       </ul>
       <ul>
-        <Link href={"/rotas/123/Alexandre"}>
+        <Link href={"/rotas/123/Alexandre"} passHref>
           <li>Alexandre</li>
         </Link>
       </ul>
