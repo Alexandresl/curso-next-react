@@ -72,6 +72,7 @@
 		- [64. API 02](#64-api-02)
 		- [65. Integrando com API 01](#65-integrando-com-api-01)
 		- [66. Integrando com API 02](#66-integrando-com-api-02)
+		- [67. API com Múltiplos Parâmetros](#67-api-com-múltiplos-parâmetros)
 
 ## Seção 1: Introdução
 
@@ -389,5 +390,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/055aae58116cc8c57e0362257e5ef8a6efe5e5f9)
 
 ### 66. Integrando com API 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/219c53b75f8e3ef59fc83b25fb8348ef4302bef1)
+
+### 67. API com Múltiplos Parâmetros
 
 [Commit]()
