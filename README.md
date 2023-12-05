@@ -77,6 +77,7 @@
 		- [69. Resolvendo Warnings](#69-resolvendo-warnings)
 	- [Seção 4: Projeto Porta Premiada - Aplicando os conceitos fundamentais](#seção-4-projeto-porta-premiada---aplicando-os-conceitos-fundamentais)
 		- [70. Introdução do módulo](#70-introdução-do-módulo)
+		- [71. Código Fonte Final](#71-código-fonte-final)
 
 ## Seção 1: Introdução
 
@@ -412,5 +413,11 @@ Criar com as seguintes respostas:
 ## Seção 4: Projeto Porta Premiada - Aplicando os conceitos fundamentais
 
 ### 70. Introdução do módulo
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/8897002f0788515b3d81183419518a425234a19c)
+
+### 71. Código Fonte Final
+
+[Arquivo](/arquivos/portas.zip)
 
 [Commit]()
