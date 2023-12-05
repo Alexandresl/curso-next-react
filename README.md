@@ -75,6 +75,8 @@
 		- [67. API com Múltiplos Parâmetros](#67-api-com-múltiplos-parâmetros)
 		- [68. Estratégias de renderização](#68-estratégias-de-renderização)
 		- [69. Resolvendo Warnings](#69-resolvendo-warnings)
+	- [Seção 4: Projeto Porta Premiada - Aplicando os conceitos fundamentais](#seção-4-projeto-porta-premiada---aplicando-os-conceitos-fundamentais)
+		- [70. Introdução do módulo](#70-introdução-do-módulo)
 
 ## Seção 1: Introdução
 
@@ -404,5 +406,11 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/b37ce3b87ab49c96bb15fa3e232b1b75feae2d54)
 
 ### 69. Resolvendo Warnings
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/7f97735d04f3d6e9ff03d15157972358e4984884)
+
+## Seção 4: Projeto Porta Premiada - Aplicando os conceitos fundamentais
+
+### 70. Introdução do módulo
 
 [Commit]()
