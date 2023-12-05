@@ -80,6 +80,7 @@
 		- [71. Código Fonte Final](#71-código-fonte-final)
 	- [72. Visão geral da aplicação](#72-visão-geral-da-aplicação)
 		- [73. Criando o projeto](#73-criando-o-projeto)
+		- [74. Componente Presente](#74-componente-presente)
 
 ## Seção 1: Introdução
 
@@ -429,5 +430,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/a62bf6de392e145a7fcd55ab22d4f94060c8ba55)
 
 ### 73. Criando o projeto
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/e44da711de6553350bbacbfec52963e0324db508)
+
+### 74. Componente Presente
 
 [Commit]()
