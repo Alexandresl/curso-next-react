@@ -86,6 +86,7 @@
 		- [77. Componente Porta 02](#77-componente-porta-02)
 		- [78. Componente Porta 03](#78-componente-porta-03)
 		- [79. Componente Porta 04](#79-componente-porta-04)
+		- [80. Componente Porta 05](#80-componente-porta-05)
 
 ## Seção 1: Introdução
 
@@ -459,5 +460,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/d4324bb1161e3c8eb6f0c6ab024ecd56c5079615)
 
 ### 79. Componente Porta 04
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/a5bc787d9cb52c6f4e676cacead8d1e7153fb1cc)
+
+### 80. Componente Porta 05
 
 [Commit]()
