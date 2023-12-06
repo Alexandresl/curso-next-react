@@ -83,6 +83,7 @@
 		- [74. Componente Presente](#74-componente-presente)
 		- [75. Box Sizing](#75-box-sizing)
 		- [76. Componente Porta 01](#76-componente-porta-01)
+		- [77. Componente Porta 02](#77-componente-porta-02)
 
 ## Seção 1: Introdução
 
@@ -444,5 +445,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/b33446da285c4ed5292977f11f9065b091938467)
 
 ### 76. Componente Porta 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/330e3adb9e2af65fa87f8a7e2495c7621a9ee5c4)
+
+### 77. Componente Porta 02
 
 [Commit]()

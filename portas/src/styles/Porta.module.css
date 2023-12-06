@@ -5,8 +5,8 @@
 	padding: 15px;
 	font-family: sans-serif;
 
-	width: 200px;
-	height: 310px;
+	width: var(--area-porta-largura);
+	height: var(--area-porta-altura);
 	align-items: center;
 }
 
