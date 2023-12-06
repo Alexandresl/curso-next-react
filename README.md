@@ -81,6 +81,7 @@
 	- [72. Visão geral da aplicação](#72-visão-geral-da-aplicação)
 		- [73. Criando o projeto](#73-criando-o-projeto)
 		- [74. Componente Presente](#74-componente-presente)
+		- [75. Box Sizing](#75-box-sizing)
 
 ## Seção 1: Introdução
 
@@ -434,5 +435,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/e44da711de6553350bbacbfec52963e0324db508)
 
 ### 74. Componente Presente
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/7c1a067a98619e56aa4c6935430db344610c3ac1)
+
+### 75. Box Sizing
 
 [Commit]()
