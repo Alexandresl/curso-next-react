@@ -82,6 +82,7 @@
 		- [73. Criando o projeto](#73-criando-o-projeto)
 		- [74. Componente Presente](#74-componente-presente)
 		- [75. Box Sizing](#75-box-sizing)
+		- [76. Componente Porta 01](#76-componente-porta-01)
 
 ## Seção 1: Introdução
 
@@ -439,5 +440,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/7c1a067a98619e56aa4c6935430db344610c3ac1)
 
 ### 75. Box Sizing
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/b33446da285c4ed5292977f11f9065b091938467)
+
+### 76. Componente Porta 01
 
 [Commit]()
