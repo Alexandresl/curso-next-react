@@ -89,6 +89,7 @@
 		- [80. Componente Porta 05](#80-componente-porta-05)
 		- [81. Componente Porta 06](#81-componente-porta-06)
 		- [82. Classe Porta](#82-classe-porta)
+		- [83. Integrando TypeScript](#83-integrando-typescript)
 
 ## Seção 1: Introdução
 
@@ -474,5 +475,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/199cdf8a446a41be362a4705ec443741c016cbcd)
 
 ### 82. Classe Porta
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/3ace9d665165026fd2c0cba43d2a8e7da935f7a1)
+
+### 83. Integrando TypeScript
 
 [Commit]()
