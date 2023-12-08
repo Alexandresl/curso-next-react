@@ -91,6 +91,7 @@
 		- [82. Classe Porta](#82-classe-porta)
 		- [83. Integrando TypeScript](#83-integrando-typescript)
 		- [84. Adicionando eventos a Porta 01](#84-adicionando-eventos-a-porta-01)
+		- [85. Adicionando eventos a Porta 02](#85-adicionando-eventos-a-porta-02)
 
 ## Seção 1: Introdução
 
@@ -485,4 +486,9 @@ Criar com as seguintes respostas:
 
 ### 84. Adicionando eventos a Porta 01
 
-[Commit]() 
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/6f906d2839d896c6ff81d851bd6950f8ee28f56f)
+
+### 85. Adicionando eventos a Porta 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/df777170b97b02aedeaa64e09c0ab41b29cdd9c1)
+
