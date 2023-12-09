@@ -98,6 +98,7 @@
 		- [89. Integração porta presente](#89-integração-porta-presente)
 		- [90. Componente Jogo 01](#90-componente-jogo-01)
 		- [91. Componente Jogo 02](#91-componente-jogo-02)
+		- [92. Usando Router](#92-usando-router)
 
 ## Seção 1: Introdução
 
@@ -519,5 +520,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/3b5854b78e61e91679da8a8283c8b2879a532180)
 
 ### 91. Componente Jogo 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/4aabcf4b7a3e88df208d511706179998db2e44af)
+
+### 92. Usando Router
 
 [Commit]()
