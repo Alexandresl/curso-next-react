@@ -99,6 +99,8 @@
 		- [90. Componente Jogo 01](#90-componente-jogo-01)
 		- [91. Componente Jogo 02](#91-componente-jogo-02)
 		- [92. Usando Router](#92-usando-router)
+		- [93. Estruturando o formulário](#93-estruturando-o-formulário)
+		- [94. Finalizando o formulário](#94-finalizando-o-formulário)
 
 ## Seção 1: Introdução
 
@@ -529,4 +531,8 @@ Criar com as seguintes respostas:
 
 ### 93. Estruturando o formulário
 
-[commit]()
+[commit](https://github.com/Alexandresl/curso-next-react/commit/18d24be5ab24fa7072bf909cc93196205ec0c4db)
+
+### 94. Finalizando o formulário
+
+[Commit]()
