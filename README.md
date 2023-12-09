@@ -102,6 +102,7 @@
 		- [93. Estruturando o formulário](#93-estruturando-o-formulário)
 		- [94. Finalizando o formulário](#94-finalizando-o-formulário)
 		- [95. Validando o formulario](#95-validando-o-formulario)
+		- [96. Atualizando Next 11](#96-atualizando-next-11)
 
 ## Seção 1: Introdução
 
@@ -539,5 +540,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/66991617911079b4be97ebe3e209a85b26c05378)
 
 ### 95. Validando o formulario
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/3a0011fd5a66cfd531b6f4e7c2c0a1dd0dd48320)
+
+### 96. Atualizando Next 11
 
 [Commit]()
