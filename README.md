@@ -97,6 +97,7 @@
 		- [88. Lidando com array de portas 02](#88-lidando-com-array-de-portas-02)
 		- [89. Integração porta presente](#89-integração-porta-presente)
 		- [90. Componente Jogo 01](#90-componente-jogo-01)
+		- [91. Componente Jogo 02](#91-componente-jogo-02)
 
 ## Seção 1: Introdução
 
@@ -514,5 +515,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/54a40c7c8487fdfb9f5e5b6ab6019a77caa9720c)
 
 ### 90. Componente Jogo 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/3b5854b78e61e91679da8a8283c8b2879a532180)
+
+### 91. Componente Jogo 02
 
 [Commit]()
