@@ -93,7 +93,8 @@
 		- [84. Adicionando eventos a Porta 01](#84-adicionando-eventos-a-porta-01)
 		- [85. Adicionando eventos a Porta 02](#85-adicionando-eventos-a-porta-02)
 		- [86. Adicionando eventos a Porta 03](#86-adicionando-eventos-a-porta-03)
-		- [87. Lidando com array de portas](#87-lidando-com-array-de-portas)
+		- [87. Lidando com array de portas 01](#87-lidando-com-array-de-portas-01)
+		- [88. Lidando com array de portas 02](#88-lidando-com-array-de-portas-02)
 
 ## Seção 1: Introdução
 
@@ -498,6 +499,10 @@ Criar com as seguintes respostas:
 
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/c7d858c4cef84343a23a4222992ee9f5d7818537)
 
-### 87. Lidando com array de portas
+### 87. Lidando com array de portas 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/57121d17654f71d53bc51acb3b5fe68bf9170337)
+
+### 88. Lidando com array de portas 02
 
 [Commit]()
