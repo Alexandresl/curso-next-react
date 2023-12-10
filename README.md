@@ -103,6 +103,8 @@
 		- [94. Finalizando o formulário](#94-finalizando-o-formulário)
 		- [95. Validando o formulario](#95-validando-o-formulario)
 		- [96. Atualizando Next 11](#96-atualizando-next-11)
+	- [Seção 5: Modos de pré renderização do Next JS](#seção-5-modos-de-pré-renderização-do-next-js)
+		- [97. Introdução ao módulo](#97-introdução-ao-módulo)
 
 ## Seção 1: Introdução
 
@@ -544,5 +546,11 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/3a0011fd5a66cfd531b6f4e7c2c0a1dd0dd48320)
 
 ### 96. Atualizando Next 11
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/e8f735c8a938b09bad6dfea2bdc0b4d90d98d0a0)
+
+## Seção 5: Modos de pré renderização do Next JS
+
+### 97. Introdução ao módulo
 
 [Commit]()
