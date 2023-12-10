@@ -7,7 +7,7 @@ export async function getStaticPaths() {
   });
 
   return {
-    fallback: false, // falso = 404
+    fallback: true, // falso = 404
     paths,
   };
 }
@@ -31,11 +31,16 @@ export default function AlunosPorId(props) {
   return (
     <div>
       <h1>Detalhes do Aluno</h1>
-      <ul>
-        <li>{props.aluno.id}</li>
-        <li>{props.aluno.nome}</li>
-        <li>{props.aluno.email}</li>
-      </ul>
+
+      {aluno ? (
+        <ul>
+          <li>{props.aluno.id}</li>
+          <li>{props.aluno.nome}</li>
+          <li>{props.aluno.email}</li>
+        </ul>
+      ) : (
+        false
+      )}
     </div>
   );
 }
