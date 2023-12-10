@@ -113,6 +113,7 @@
 		- [103. Analisando o projeto tabuleiro](#103-analisando-o-projeto-tabuleiro)
 		- [104. Criando o projeto](#104-criando-o-projeto)
 		- [105. Componente estático 01](#105-componente-estático-01)
+		- [106. Componente estatico 02](#106-componente-estatico-02)
 
 ## Seção 1: Introdução
 
@@ -594,5 +595,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/a9bda9db1712b319a72db45e23f2233ba1d3df96)
 
 ### 105. Componente estático 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/7b40f32ff9a7e8d47697d6c42dc34905311dfa63)
+
+### 106. Componente estatico 02
 
 [Commit]()
