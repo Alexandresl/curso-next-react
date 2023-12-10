@@ -109,6 +109,7 @@
 		- [99. Estratégias de renderização](#99-estratégias-de-renderização)
 		- [100. Renderização SPA](#100-renderização-spa)
 		- [101. Renderização SSR](#101-renderização-ssr)
+		- [102. Renderização SSG](#102-renderização-ssg)
 
 ## Seção 1: Introdução
 
@@ -574,5 +575,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/5764360c66fe78ae46e9bd9d0e6228da0037a26b)
 
 ### 101. Renderização SSR
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/6948be9fb17312baa809e607f672d5a75c681885)
+
+### 102. Renderização SSG
 
 [Commit]()
