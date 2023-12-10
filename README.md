@@ -120,7 +120,8 @@
 		- [110. Componente dinâmico 01](#110-componente-dinâmico-01)
 		- [111. Componente dinâmico 02](#111-componente-dinâmico-02)
 		- [112. Bug no build do projeto](#112-bug-no-build-do-projeto)
-		- [113. usando getStaticPaths - Parte 1](#113-usando-getstaticpaths---parte-1)
+		- [113. Usando getStaticPaths - Parte 1](#113-usando-getstaticpaths---parte-1)
+		- [114. Usando getStaticPaths - Parte 2](#114-usando-getstaticpaths---parte-2)
 
 ## Seção 1: Introdução
 
@@ -633,6 +634,10 @@ Criar com as seguintes respostas:
 
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/bdfdc544a712d9f776a23f2f3c9e55a14e91f171)
 
-### 113. usando getStaticPaths - Parte 1
+### 113. Usando getStaticPaths - Parte 1
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/0ced6c2cce6a1208f9b89b247568470625d143db)
+
+### 114. Usando getStaticPaths - Parte 2
 
 [Commit]()
