@@ -111,6 +111,7 @@
 		- [101. Renderização SSR](#101-renderização-ssr)
 		- [102. Renderização SSG](#102-renderização-ssg)
 		- [103. Analisando o projeto tabuleiro](#103-analisando-o-projeto-tabuleiro)
+		- [104. Criando o projeto](#104-criando-o-projeto)
 
 ## Seção 1: Introdução
 
@@ -584,5 +585,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/7c0ce824a3cf5828cb008453277f6875809cfa79)
 
 ### 103. Analisando o projeto tabuleiro
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/d7449453bc6d55d7f2a4aafb1504b7da8f22ee70)
+
+### 104. Criando o projeto
 
 [Commit]()
