@@ -107,6 +107,7 @@
 		- [97. Introdução ao módulo](#97-introdução-ao-módulo)
 		- [98. Código fonte final](#98-código-fonte-final)
 		- [99. Estratégias de renderização](#99-estratégias-de-renderização)
+		- [100. Renderização SPA](#100-renderização-spa)
 
 ## Seção 1: Introdução
 
@@ -564,5 +565,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/59a8076f95af3f9a6f9d968f61051737c018c2f6)
 
 ### 99. Estratégias de renderização
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/20b644b060f993082546ba29d0060e8900724b6c)
+
+### 100. Renderização SPA
 
 [Commit]()
