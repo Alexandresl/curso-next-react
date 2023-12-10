@@ -106,6 +106,7 @@
 	- [Seção 5: Modos de pré renderização do Next JS](#seção-5-modos-de-pré-renderização-do-next-js)
 		- [97. Introdução ao módulo](#97-introdução-ao-módulo)
 		- [98. Código fonte final](#98-código-fonte-final)
+		- [99. Estratégias de renderização](#99-estratégias-de-renderização)
 
 ## Seção 1: Introdução
 
@@ -559,5 +560,9 @@ Criar com as seguintes respostas:
 ### 98. Código fonte final
 
 [Arquivo](arquivos/renderizacao.zip)
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/59a8076f95af3f9a6f9d968f61051737c018c2f6)
+
+### 99. Estratégias de renderização
 
 [Commit]()
