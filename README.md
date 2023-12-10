@@ -105,6 +105,7 @@
 		- [96. Atualizando Next 11](#96-atualizando-next-11)
 	- [Seção 5: Modos de pré renderização do Next JS](#seção-5-modos-de-pré-renderização-do-next-js)
 		- [97. Introdução ao módulo](#97-introdução-ao-módulo)
+		- [98. Código fonte final](#98-código-fonte-final)
 
 ## Seção 1: Introdução
 
@@ -552,5 +553,11 @@ Criar com as seguintes respostas:
 ## Seção 5: Modos de pré renderização do Next JS
 
 ### 97. Introdução ao módulo
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/80554875a30f563caf9e819a659c22e1d4d44300)
+
+### 98. Código fonte final
+
+[Arquivo](arquivos/renderizacao.zip)
 
 [Commit]()
