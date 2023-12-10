@@ -119,6 +119,7 @@
 		- [109. Componente estático 04 - Parte 2](#109-componente-estático-04---parte-2)
 		- [110. Componente dinâmico 01](#110-componente-dinâmico-01)
 		- [111. Componente dinâmico 02](#111-componente-dinâmico-02)
+		- [112. Bug no build do projeto](#112-bug-no-build-do-projeto)
 
 ## Seção 1: Introdução
 
@@ -624,5 +625,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/e616ca92b08ff0daee27dfee6952f88f0d847581)
 
 ### 111. Componente dinâmico 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/95c1205305bdda09585bfff9d2f96b5076703eb7)
+
+### 112. Bug no build do projeto
 
 [Commit]()
