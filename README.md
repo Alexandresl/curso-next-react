@@ -110,6 +110,7 @@
 		- [100. Renderização SPA](#100-renderização-spa)
 		- [101. Renderização SSR](#101-renderização-ssr)
 		- [102. Renderização SSG](#102-renderização-ssg)
+		- [103. Analisando o projeto tabuleiro](#103-analisando-o-projeto-tabuleiro)
 
 ## Seção 1: Introdução
 
@@ -579,5 +580,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/6948be9fb17312baa809e607f672d5a75c681885)
 
 ### 102. Renderização SSG
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/7c0ce824a3cf5828cb008453277f6875809cfa79)
+
+### 103. Analisando o projeto tabuleiro
 
 [Commit]()
