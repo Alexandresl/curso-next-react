@@ -112,6 +112,7 @@
 		- [102. Renderização SSG](#102-renderização-ssg)
 		- [103. Analisando o projeto tabuleiro](#103-analisando-o-projeto-tabuleiro)
 		- [104. Criando o projeto](#104-criando-o-projeto)
+		- [105. Componente estático 01](#105-componente-estático-01)
 
 ## Seção 1: Introdução
 
@@ -589,5 +590,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/d7449453bc6d55d7f2a4aafb1504b7da8f22ee70)
 
 ### 104. Criando o projeto
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/a9bda9db1712b319a72db45e23f2233ba1d3df96)
+
+### 105. Componente estático 01
 
 [Commit]()
