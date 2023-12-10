@@ -118,6 +118,7 @@
 		- [108. Componente estático 04 - Parte 1](#108-componente-estático-04---parte-1)
 		- [109. Componente estático 04 - Parte 2](#109-componente-estático-04---parte-2)
 		- [110. Componente dinâmico 01](#110-componente-dinâmico-01)
+		- [111. Componente dinâmico 02](#111-componente-dinâmico-02)
 
 ## Seção 1: Introdução
 
@@ -619,5 +620,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/5e138c048d88a1d6d975fabb6a26f80948ee5c62)
 
 ### 110. Componente dinâmico 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/e616ca92b08ff0daee27dfee6952f88f0d847581)
+
+### 111. Componente dinâmico 02
 
 [Commit]()
