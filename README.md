@@ -126,6 +126,7 @@
 	- [Seção 6: Projeto Quiz - Full Stack com Next JS](#seção-6-projeto-quiz---full-stack-com-next-js)
 		- [116. Introdução do Módulo](#116-introdução-do-módulo)
 		- [117. Código fonte final](#117-código-fonte-final)
+		- [118. Visão geral da aplicação](#118-visão-geral-da-aplicação)
 
 ## Seção 1: Introdução
 
@@ -659,5 +660,9 @@ Criar com as seguintes respostas:
 ### 117. Código fonte final
 
 [Arquivo](/arquivos/quiz.zip)
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/a1400020e99154bd69f7f489da0cd69b0e81cb64)
+
+### 118. Visão geral da aplicação
 
 [Commit]()
