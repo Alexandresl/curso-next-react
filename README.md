@@ -123,6 +123,8 @@
 		- [113. Usando getStaticPaths - Parte 1](#113-usando-getstaticpaths---parte-1)
 		- [114. Usando getStaticPaths - Parte 2](#114-usando-getstaticpaths---parte-2)
 		- [115. Usando Fallback True](#115-usando-fallback-true)
+	- [Seção 6: Projeto Quiz - Full Stack com Next JS](#seção-6-projeto-quiz---full-stack-com-next-js)
+		- [116. Introdução do Módulo](#116-introdução-do-módulo)
 
 ## Seção 1: Introdução
 
@@ -644,5 +646,11 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/f3e6085240319efcc62c9e14a0cc4dd732a1fa1b)
 
 ### 115. Usando Fallback True
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/05be51d80caf52944b7eb05580e5998c42f2ea27)
+
+## Seção 6: Projeto Quiz - Full Stack com Next JS
+
+### 116. Introdução do Módulo
 
 [Commit]()
