@@ -125,6 +125,7 @@
 		- [115. Usando Fallback True](#115-usando-fallback-true)
 	- [Seção 6: Projeto Quiz - Full Stack com Next JS](#seção-6-projeto-quiz---full-stack-com-next-js)
 		- [116. Introdução do Módulo](#116-introdução-do-módulo)
+		- [117. Código fonte final](#117-código-fonte-final)
 
 ## Seção 1: Introdução
 
@@ -652,5 +653,11 @@ Criar com as seguintes respostas:
 ## Seção 6: Projeto Quiz - Full Stack com Next JS
 
 ### 116. Introdução do Módulo
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/f291f909bb77a29128641cd5cbcd58a345b3751d)
+
+### 117. Código fonte final
+
+[Arquivo](/arquivos/quiz.zip)
 
 [Commit]()
