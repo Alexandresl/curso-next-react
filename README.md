@@ -129,6 +129,7 @@
 		- [118. Visão geral da aplicação](#118-visão-geral-da-aplicação)
 		- [119. Nova estrutura de pastas - Next 13](#119-nova-estrutura-de-pastas---next-13)
 		- [120. Criando o projeto](#120-criando-o-projeto)
+		- [121. Classe Questão](#121-classe-questão)
 
 ## Seção 1: Introdução
 
@@ -674,5 +675,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/4ca5e8a13e0179b64d39985ca739b23554c05142)
 
 ### 120. Criando o projeto
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/0537c1ac22062ba4a3554167bf4478e667b558dc)
+
+### 121. Classe Questão
 
 [Commit]()
