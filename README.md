@@ -128,6 +128,7 @@
 		- [117. Código fonte final](#117-código-fonte-final)
 		- [118. Visão geral da aplicação](#118-visão-geral-da-aplicação)
 		- [119. Nova estrutura de pastas - Next 13](#119-nova-estrutura-de-pastas---next-13)
+		- [120. Criando o projeto](#120-criando-o-projeto)
 
 ## Seção 1: Introdução
 
@@ -669,5 +670,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/ad2eddf1b52254dee360e7395cbae452b9a79ad2)
 
 ### 119. Nova estrutura de pastas - Next 13
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/4ca5e8a13e0179b64d39985ca739b23554c05142)
+
+### 120. Criando o projeto
 
 [Commit]()
