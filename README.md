@@ -127,6 +127,7 @@
 		- [116. Introdução do Módulo](#116-introdução-do-módulo)
 		- [117. Código fonte final](#117-código-fonte-final)
 		- [118. Visão geral da aplicação](#118-visão-geral-da-aplicação)
+		- [119. Nova estrutura de pastas - Next 13](#119-nova-estrutura-de-pastas---next-13)
 
 ## Seção 1: Introdução
 
@@ -664,5 +665,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/a1400020e99154bd69f7f489da0cd69b0e81cb64)
 
 ### 118. Visão geral da aplicação
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/ad2eddf1b52254dee360e7395cbae452b9a79ad2)
+
+### 119. Nova estrutura de pastas - Next 13
 
 [Commit]()
