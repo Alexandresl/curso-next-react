@@ -131,6 +131,7 @@
 		- [120. Criando o projeto](#120-criando-o-projeto)
 		- [121. Classe Questão](#121-classe-questão)
 		- [122. Classe resposta](#122-classe-resposta)
+		- [123. Iniciando nossa API](#123-iniciando-nossa-api)
 
 ## Seção 1: Introdução
 
@@ -684,5 +685,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/092859446e0985197080c5a922087e1616e9869d)
 
 ### 122. Classe resposta
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/39ad8786ea0e9249fbccec9f45fb4e7ec04ba149)
+
+### 123. Iniciando nossa API
 
 [Commit]()
