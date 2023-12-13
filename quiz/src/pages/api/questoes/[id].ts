@@ -1,13 +1,8 @@
 import { NextApiRequest, NextApiResponse } from "next";
+import questoes from "../bancoDeQuestoes";
+import QuestaoModel from "../../../../model/Questao";
 
-type Data = {
-	id: number,
-	name: string
-}
 
-export default function handler (req: NextApiRequest, res: NextApiResponse<Data>) {
-	res.status(200).json({
-		id: +`${req.query.id}`,
-		name: "Alexandre"
-	});
+export default function handler (req: NextApiRequest, res: NextApiResponse<QuestaoModel>) {
+	res.status(200).json(questoes[0]);
 }

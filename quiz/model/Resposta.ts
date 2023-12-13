@@ -10,6 +10,14 @@ export default class RespostaModel {
 		this.#revelada = revelada;
 	}
 
+	static certa(valor: string) {
+		return new RespostaModel(valor, true);
+	}
+
+	static errada(valor: string) {
+		return new RespostaModel(valor, false);
+	}
+
 	get valor() {
 		return this.#valor;
 	}

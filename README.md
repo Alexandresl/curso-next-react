@@ -132,6 +132,7 @@
 		- [121. Classe Questão](#121-classe-questão)
 		- [122. Classe resposta](#122-classe-resposta)
 		- [123. Iniciando nossa API](#123-iniciando-nossa-api)
+		- [124. Banco de questões](#124-banco-de-questões)
 
 ## Seção 1: Introdução
 
@@ -689,5 +690,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/39ad8786ea0e9249fbccec9f45fb4e7ec04ba149)
 
 ### 123. Iniciando nossa API
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/e954a1345a20a6bc2a51209d66c6fbe9d872c9d3)
+
+### 124. Banco de questões
 
 [Commit]()
