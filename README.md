@@ -134,7 +134,8 @@
 		- [123. Iniciando nossa API](#123-iniciando-nossa-api)
 		- [124. Banco de questões](#124-banco-de-questões)
 		- [125. Convertendo para objeto](#125-convertendo-para-objeto)
-		- [126. Construindo a API #01](#126-construindo-a-api-01)
+		- [126. Construindo a API 01](#126-construindo-a-api-01)
+		- [127. Construindo a API 02](#127-construindo-a-api-02)
 
 ## Seção 1: Introdução
 
@@ -703,6 +704,10 @@ Criar com as seguintes respostas:
 
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/1e75fe6d13c889fc6740c0d09bba5bbec9697350)
 
-### 126. Construindo a API #01
+### 126. Construindo a API 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/8c7a940f8c671c0036223c807fc880c8ac7a2b70)
+
+### 127. Construindo a API 02
 
 [Commit]()
