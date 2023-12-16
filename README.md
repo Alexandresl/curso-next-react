@@ -136,6 +136,7 @@
 		- [125. Convertendo para objeto](#125-convertendo-para-objeto)
 		- [126. Construindo a API 01](#126-construindo-a-api-01)
 		- [127. Construindo a API 02](#127-construindo-a-api-02)
+		- [128. Embaralhar itens](#128-embaralhar-itens)
 
 ## Seção 1: Introdução
 
@@ -709,5 +710,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/8c7a940f8c671c0036223c807fc880c8ac7a2b70)
 
 ### 127. Construindo a API 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/a03fe748dc2070cbfe2e401fe5ec761be7588564)
+
+### 128. Embaralhar itens
 
 [Commit]()
