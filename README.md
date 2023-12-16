@@ -137,6 +137,7 @@
 		- [126. Construindo a API 01](#126-construindo-a-api-01)
 		- [127. Construindo a API 02](#127-construindo-a-api-02)
 		- [128. Embaralhar itens](#128-embaralhar-itens)
+		- [129. Respondendo a pergunta](#129-respondendo-a-pergunta)
 
 ## Seção 1: Introdução
 
@@ -714,5 +715,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/a03fe748dc2070cbfe2e401fe5ec761be7588564)
 
 ### 128. Embaralhar itens
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/fe9195aef0c47ec8a20b6e22170b930683db4926)
+
+### 129. Respondendo a pergunta
 
 [Commit]()

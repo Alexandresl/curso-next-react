@@ -1,8 +1,8 @@
 export default class RespostaModel {
 
 	#valor: string;
-	#certa: Boolean;
-	#revelada: Boolean;
+	#certa: boolean;
+	#revelada: boolean;
 
 	constructor(valor: string, certa: boolean, revelada: boolean = false) {
 		this.#valor = valor;
@@ -28,6 +28,10 @@ export default class RespostaModel {
 
 	get revelada() {
 		return this.#revelada
+	}
+
+	revelar() {
+		return new RespostaModel(this.#valor, this.#certa, true)
 	}
 
 	paraObjeto() {
