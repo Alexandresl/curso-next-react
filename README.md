@@ -138,6 +138,7 @@
 		- [127. Construindo a API 02](#127-construindo-a-api-02)
 		- [128. Embaralhar itens](#128-embaralhar-itens)
 		- [129. Respondendo a pergunta](#129-respondendo-a-pergunta)
+		- [130. Iniciando componente Questão](#130-iniciando-componente-questão)
 
 ## Seção 1: Introdução
 
@@ -719,5 +720,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/fe9195aef0c47ec8a20b6e22170b930683db4926)
 
 ### 129. Respondendo a pergunta
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/e63f7a31db8b14e2a467316100bb3069022b7dfb)
+
+### 130. Iniciando componente Questão
 
 [Commit]()
