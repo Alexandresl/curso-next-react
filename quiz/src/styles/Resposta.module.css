@@ -1,5 +1,15 @@
 .resposta {
 	display: flex;
+	width: 80%;
+	min-width: 500%;
+	height: 100px;
+	margin: 10px;
+}
+
+.conteudoResposta {
+	position: relative;
+	display: flex;
+	flex: 1;
 }
 
 .frente {
@@ -12,6 +22,9 @@
 
 .frente, .verso {
 	display: flex;
+	height: 100%;
+	width: 100%;
+	position: absolute;
 }
 
 .letra {
