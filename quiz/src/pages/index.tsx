@@ -1,3 +1,4 @@
+import styles from '../styles/Home.module.css'
 import Head from "next/head";
 import Questao from "../../components/Questao";
 import QuestaoModel from "../../model/Questao";
@@ -18,7 +19,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main>
+      <main className={styles.home}>
         <Questao valor={questaoTeste}/>
       </main>
     </>

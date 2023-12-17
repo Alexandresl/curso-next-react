@@ -139,6 +139,7 @@
 		- [128. Embaralhar itens](#128-embaralhar-itens)
 		- [129. Respondendo a pergunta](#129-respondendo-a-pergunta)
 		- [130. Iniciando componente Questão](#130-iniciando-componente-questão)
+		- [131. Componente Enunciado](#131-componente-enunciado)
 
 ## Seção 1: Introdução
 
@@ -724,5 +725,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/e63f7a31db8b14e2a467316100bb3069022b7dfb)
 
 ### 130. Iniciando componente Questão
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/b82c27d85c46209807d7f6405210e08bb567bef8)
+
+### 131. Componente Enunciado
 
 [Commit]()
