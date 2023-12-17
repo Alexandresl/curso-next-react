@@ -16,10 +16,11 @@ export default function Questao(props: QuestaoProps) {
 	function renderizarRespostas() {
 		return questao.respostas.map((resposta, indice) => {
 			return <Resposta
+				key={indice}
 				valor={resposta}
 				indice={indice}
 				letra="A"
-				corLetra="#f2c866"
+				corBox="#f2c866"
 			/>
 		});
 	}

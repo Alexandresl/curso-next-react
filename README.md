@@ -141,6 +141,7 @@
 		- [130. Iniciando componente Questão](#130-iniciando-componente-questão)
 		- [131. Componente Enunciado](#131-componente-enunciado)
 		- [132. Componente resposta 01](#132-componente-resposta-01)
+		- [133. Componente resposta 02](#133-componente-resposta-02)
 
 ## Seção 1: Introdução
 
@@ -734,5 +735,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/e8523f06d629708b338f4bf7e5d367fef95c0502)
 
 ### 132. Componente resposta 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/671de79a321ee4149af2a3f902a19c90e3f68cb0)
+
+### 133. Componente resposta 02
 
 [Commit]()
