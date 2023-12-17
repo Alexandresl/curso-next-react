@@ -140,6 +140,7 @@
 		- [129. Respondendo a pergunta](#129-respondendo-a-pergunta)
 		- [130. Iniciando componente Questão](#130-iniciando-componente-questão)
 		- [131. Componente Enunciado](#131-componente-enunciado)
+		- [132. Componente resposta 01](#132-componente-resposta-01)
 
 ## Seção 1: Introdução
 
@@ -729,5 +730,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/b82c27d85c46209807d7f6405210e08bb567bef8)
 
 ### 131. Componente Enunciado
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/e8523f06d629708b338f4bf7e5d367fef95c0502)
+
+### 132. Componente resposta 01
 
 [Commit]()
