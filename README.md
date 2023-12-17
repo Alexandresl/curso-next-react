@@ -142,6 +142,7 @@
 		- [131. Componente Enunciado](#131-componente-enunciado)
 		- [132. Componente resposta 01](#132-componente-resposta-01)
 		- [133. Componente resposta 02](#133-componente-resposta-02)
+		- [134. Componente resposta 03](#134-componente-resposta-03)
 
 ## Seção 1: Introdução
 
@@ -739,5 +740,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/671de79a321ee4149af2a3f902a19c90e3f68cb0)
 
 ### 133. Componente resposta 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/712644dbc7c592412973ee316dfbba3c9e431d02)
+
+### 134. Componente resposta 03
 
 [Commit]()
