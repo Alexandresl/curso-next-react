@@ -5,6 +5,13 @@ import styles from '../src/styles/Questao.module.css'
 import Enunciado from "./Enunciado";
 import Resposta from "./Resposta";
 
+const letras = [
+	{valor: "A", cor: "#f2c866"},
+	{valor: "B", cor: "#f266ba"},
+	{valor: "C", cor: "#85d4f2"},
+	{valor: "D", cor: "#bce596"}
+]
+
 interface QuestaoProps {
 	valor: QuestaoModel
 }
@@ -19,8 +26,8 @@ export default function Questao(props: QuestaoProps) {
 				key={indice}
 				valor={resposta}
 				indice={indice}
-				letra="A"
-				corBox="#f2c866"
+				letra={letras[indice].valor}
+				corBox={letras[indice].cor}
 			/>
 		});
 	}

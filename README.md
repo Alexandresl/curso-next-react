@@ -144,6 +144,7 @@
 		- [133. Componente resposta 02](#133-componente-resposta-02)
 		- [134. Componente resposta 03](#134-componente-resposta-03)
 		- [135. Componente resposta 04](#135-componente-resposta-04)
+		- [136. Componente resposta 05](#136-componente-resposta-05)
 
 ## Seção 1: Introdução
 
@@ -749,5 +750,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/0eccb5a39da660297f176c0def8e37da72d7630d)
 
 ### 135. Componente resposta 04
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/079d1d6c73bd094681633eb17679631ac0eba19d)
+
+### 136. Componente resposta 05
 
 [Commit]()
