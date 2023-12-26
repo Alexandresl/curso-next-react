@@ -44,6 +44,7 @@ export default class QuestaoModel {
 			const respostaSelecionada = indice === i;
 			const deveRevelar = respostaSelecionada || resposta.certa;
 			return deveRevelar ? resposta.revelar() : resposta;
+			// return resposta.revelar(); // Revela todos se erradas
 		});
 		return new QuestaoModel(this.#id, this.#enunciado, respostas, acertou);
 	}
