@@ -147,6 +147,7 @@
 		- [136. Componente resposta 05](#136-componente-resposta-05)
 		- [137. Componente resposta 06](#137-componente-resposta-06)
 		- [138. Componente resposta 07](#138-componente-resposta-07)
+		- [139. Componente temporizador](#139-componente-temporizador)
 
 ## Seção 1: Introdução
 
@@ -764,5 +765,11 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/a0772fbc483a8912f094f239dea114380a5381b6)
 
 ### 138. Componente resposta 07
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/d2c9f3e34c3832e13ceb204445f33a33f3f0e2bd)
+
+### 139. Componente temporizador
+
+[Link componente temporizador](https://www.npmjs.com/package/react-countdown-circle-timer)
 
 [Commit]()

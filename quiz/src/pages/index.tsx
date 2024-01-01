@@ -21,6 +21,10 @@ export default function Home() {
     setQuestao(questao.responderCom(indice));
   }
 
+  function tempoEsgotado() {
+    if (questao.naoRespondida) setQuestao(questao.responderCom(-1));
+  }
+
   return (
     <>
       <Head>
@@ -30,7 +34,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.home}>
-        <Questao valor={questao} respostaFornecida={respostaFornecida} />
+        <Questao valor={questao} respostaFornecida={respostaFornecida} tempoEsgotado={tempoEsgotado} />
       </main>
     </>
   );
