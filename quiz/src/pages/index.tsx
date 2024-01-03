@@ -4,6 +4,7 @@ import Questao from "../../components/Questao";
 import QuestaoModel from "../../model/Questao";
 import RespostaModel from "../../model/Resposta";
 import { useState } from "react";
+import Botao from "../../components/Botao";
 
 const questaoMock = new QuestaoModel(1, "Melhor cor?", [
   RespostaModel.errada("Verde"),
@@ -39,6 +40,7 @@ export default function Home() {
           tempoEsgotado={tempoEsgotado}
           tempoPraResposta={10}
         />
+        <Botao texto="Próxima Questão" href="/resultado"></Botao>
       </main>
     </>
   );

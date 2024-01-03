@@ -149,6 +149,7 @@
 		- [138. Componente resposta 07](#138-componente-resposta-07)
 		- [139. Componente temporizador](#139-componente-temporizador)
 		- [140. Externalizando Tempo Resposta](#140-externalizando-tempo-resposta)
+		- [141. Componente Botão](#141-componente-botão)
 
 ## Seção 1: Introdução
 
@@ -776,5 +777,9 @@ Criar com as seguintes respostas:
 [Commit](https://github.com/Alexandresl/curso-next-react/commit/25f9f4b85558adf901abd7bbcd0fc5178c684350)
 
 ### 140. Externalizando Tempo Resposta
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/a257c15ff95b08d5b354d8f403ccbcdb291253c4)
+
+### 141. Componente Botão
 
 [Commit]()
