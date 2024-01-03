@@ -13,7 +13,6 @@ const questaoMock = new QuestaoModel(1, "Melhor cor?", [
 ]);
 
 export default function Home() {
-
   const [questao, setQuestao] = useState(questaoMock);
 
   function respostaFornecida(indice: number) {
@@ -34,7 +33,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.home}>
-        <Questao valor={questao} respostaFornecida={respostaFornecida} tempoEsgotado={tempoEsgotado} />
+        <Questao
+          valor={questao}
+          respostaFornecida={respostaFornecida}
+          tempoEsgotado={tempoEsgotado}
+          tempoPraResposta={10}
+        />
       </main>
     </>
   );

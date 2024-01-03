@@ -148,6 +148,7 @@
 		- [137. Componente resposta 06](#137-componente-resposta-06)
 		- [138. Componente resposta 07](#138-componente-resposta-07)
 		- [139. Componente temporizador](#139-componente-temporizador)
+		- [140. Externalizando Tempo Resposta](#140-externalizando-tempo-resposta)
 
 ## Seção 1: Introdução
 
@@ -771,5 +772,9 @@ Criar com as seguintes respostas:
 ### 139. Componente temporizador
 
 [Link componente temporizador](https://www.npmjs.com/package/react-countdown-circle-timer)
+
+[Commit](https://github.com/Alexandresl/curso-next-react/commit/25f9f4b85558adf901abd7bbcd0fc5178c684350)
+
+### 140. Externalizando Tempo Resposta
 
 [Commit]()
