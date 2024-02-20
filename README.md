@@ -10,6 +10,7 @@
 		- [6. Aviso importante aos usuários de Windows](#6-aviso-importante-aos-usuários-de-windows)
 	- [Seção 2: Revisão React](#seção-2-revisão-react)
 		- [7. Introdução do módulo](#7-introdução-do-módulo)
+		- [8. Código fonte final](#8-código-fonte-final)
 
 
 ## Seção 1: Introdução
@@ -68,5 +69,11 @@ Bons estudos galera!
 - Componente com estado
 - Renderização condicional
 - Renderização de lista de componentes
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/e42b545f5abc98d9419005317633ab672cf031b8)
+
+### 8. Código fonte final
+
+[Arquivo](Files/exercicios.zip)
 
 [Commit]()
