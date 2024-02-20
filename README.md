@@ -8,6 +8,8 @@
 		- [4. O que é Next.JS](#4-o-que-é-nextjs)
 		- [5. Recado sobre TypeScript](#5-recado-sobre-typescript)
 		- [6. Aviso importante aos usuários de Windows](#6-aviso-importante-aos-usuários-de-windows)
+	- [Seção 2: Revisão React](#seção-2-revisão-react)
+		- [7. Introdução do módulo](#7-introdução-do-módulo)
 
 
 ## Seção 1: Introdução
@@ -47,5 +49,24 @@ O primeiro problema é relacionado a Área de Trabalho, pois em alguns casos ela
 O segundo problema é relacionado ao OneDrive. Nas versões mais recentes do Windows o OneDrive é ativado por padrão e ele acaba deixando todas as pastas e arquivos criados no seu computador como arquivos em nuvem, ao invés de arquivos locais. Isso também acaba gerando erros em alguns ambientes. Para resolver isso é simples, basta desativar o OneDrive para a pasta do seu projeto ou desativar geral mesmo. Você escolhe.
 
 Bons estudos galera!
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/0a41377a5eb470e890431d066ad480a6152f6e97)
+
+## Seção 2: Revisão React
+
+### 7. Introdução do módulo
+
+*Next.js é a versão framework do React*
+
+**Objetivos do módulo**
+
+- Criar projeto Next.js
+- O básico do Next e React
+- Criar componentes funcionais
+- Propriedades de componentes
+- Comunicação entre componentes
+- Componente com estado
+- Renderização condicional
+- Renderização de lista de componentes
 
 [Commit]()
