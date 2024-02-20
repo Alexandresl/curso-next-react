@@ -12,6 +12,7 @@
 		- [7. Introdução do módulo](#7-introdução-do-módulo)
 		- [8. Código fonte final](#8-código-fonte-final)
 		- [9. Criando o Projeto](#9-criando-o-projeto)
+		- [10. Primeiro componente](#10-primeiro-componente)
 
 
 ## Seção 1: Introdução
@@ -93,5 +94,9 @@ Comando para criar projeto Next.js:
 √ Would you like to use `src/` directory? ... No / Yes
 √ Would you like to use App Router? (recommended) ... No / Yes
 √ Would you like to customize the default import alias (@/*)? ... No / Yes
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/006674afaf5dcff735beb9b91da711767428ea78)
+
+### 10. Primeiro componente
 
 [Commit]()
