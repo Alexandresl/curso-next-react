@@ -11,6 +11,7 @@
 	- [Seção 2: Revisão React](#seção-2-revisão-react)
 		- [7. Introdução do módulo](#7-introdução-do-módulo)
 		- [8. Código fonte final](#8-código-fonte-final)
+		- [9. Criando o Projeto](#9-criando-o-projeto)
 
 
 ## Seção 1: Introdução
@@ -75,5 +76,22 @@ Bons estudos galera!
 ### 8. Código fonte final
 
 [Arquivo](Files/exercicios.zip)
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/fdbd405e7023482cb05aa1789eb48592c0e286ea)
+
+### 9. Criando o Projeto
+
+Comando para criar projeto Next.js:
+
+```npx create-next-app <nome do projeto>```
+
+**Resposta padrão inicial:**
+
+√ Would you like to use TypeScript? ... No / Yes
+√ Would you like to use ESLint? ... No / Yes
+√ Would you like to use Tailwind CSS? ... No / Yes
+√ Would you like to use `src/` directory? ... No / Yes
+√ Would you like to use App Router? (recommended) ... No / Yes
+√ Would you like to customize the default import alias (@/*)? ... No / Yes
 
 [Commit]()
