@@ -24,6 +24,7 @@
 		- [19. Desafio Lista - Resposta 03](#19-desafio-lista---resposta-03)
 		- [20. Fragment 01](#20-fragment-01)
 		- [21. Fragment 02](#21-fragment-02)
+		- [22. Usando o Componente](#22-usando-o-componente)
 
 
 ## Seção 1: Introdução
@@ -153,5 +154,9 @@ Comando para criar projeto Next.js:
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/7d1822d8d27724ea40c2a154fcd14d71533f02c1)
 
 ### 21. Fragment 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/f74d56b723cff54dce1ba0f3e672d9a5a4624a13)
+
+### 22. Usando o Componente
 
 [Commit]()
