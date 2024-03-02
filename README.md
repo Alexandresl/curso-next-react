@@ -13,6 +13,7 @@
 		- [8. Código fonte final](#8-código-fonte-final)
 		- [9. Criando o Projeto](#9-criando-o-projeto)
 		- [10. Primeiro componente](#10-primeiro-componente)
+		- [11. Movendo o primeiro componente](#11-movendo-o-primeiro-componente)
 
 
 ## Seção 1: Introdução
@@ -88,15 +89,19 @@ Comando para criar projeto Next.js:
 
 **Resposta padrão inicial:**
 
-√ Would you like to use TypeScript? ... No / Yes
-√ Would you like to use ESLint? ... No / Yes
-√ Would you like to use Tailwind CSS? ... No / Yes
-√ Would you like to use `src/` directory? ... No / Yes
-√ Would you like to use App Router? (recommended) ... No / Yes
-√ Would you like to customize the default import alias (@/*)? ... No / Yes
+√ Would you like to use TypeScript? ... **No** / Yes
+√ Would you like to use ESLint? ... **No** / Yes
+√ Would you like to use Tailwind CSS? ... **No** / Yes
+√ Would you like to use `src/` directory? ... **No** / Yes
+√ Would you like to use App Router? (recommended) ... **No** / Yes
+√ Would you like to customize the default import alias (@/*)? ... **No** / Yes
 
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/006674afaf5dcff735beb9b91da711767428ea78)
 
 ### 10. Primeiro componente
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/a61f590b31c59d87ea0fa23e42aab2e0861827bb)
+
+### 11. Movendo o primeiro componente
 
 [Commit]()
