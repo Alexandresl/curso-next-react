@@ -15,6 +15,7 @@
 		- [10. Primeiro componente](#10-primeiro-componente)
 		- [11. Movendo o primeiro componente](#11-movendo-o-primeiro-componente)
 		- [12. JSX 01](#12-jsx-01)
+		- [13. JSX 02](#13-jsx-02)
 
 
 ## Seção 1: Introdução
@@ -108,5 +109,9 @@ Comando para criar projeto Next.js:
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/215436225d6d4586b483a180271347bafc27aca5)
 
 ### 12. JSX 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/9866237fb50bfa9d4522124a0acb398b3b6b627d)
+
+### 13. JSX 02
 
 [Commit]()
