@@ -25,6 +25,7 @@
 		- [20. Fragment 01](#20-fragment-01)
 		- [21. Fragment 02](#21-fragment-02)
 		- [22. Usando o Componente](#22-usando-o-componente)
+		- [23. Propriedade do componente](#23-propriedade-do-componente)
 
 
 ## Seção 1: Introdução
@@ -158,5 +159,9 @@ Comando para criar projeto Next.js:
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/f74d56b723cff54dce1ba0f3e672d9a5a4624a13)
 
 ### 22. Usando o Componente
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/1da2aa2820e99a1549f2b95e0e465fc3a8aa246c)
+
+### 23. Propriedade do componente
 
 [Commit]()
