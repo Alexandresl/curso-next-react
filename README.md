@@ -19,6 +19,7 @@
 		- [14. JSX 03](#14-jsx-03)
 		- [15. JSX 04](#15-jsx-04)
 		- [16. Desafio Lista](#16-desafio-lista)
+		- [176. Desafio Lista - Resposta 01](#176-desafio-lista---resposta-01)
 
 
 ## Seção 1: Introdução
@@ -128,5 +129,9 @@ Comando para criar projeto Next.js:
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/d96498ad59bcf0eab2bc306178a86a9b9fbd4acd)
 
 ### 16. Desafio Lista
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/641a72aec824775a9d843bb86d8034b88a0683e4)
+
+### 176. Desafio Lista - Resposta 01
 
 [Commit]()
