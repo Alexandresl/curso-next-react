@@ -21,6 +21,7 @@
 		- [16. Desafio Lista](#16-desafio-lista)
 		- [17. Desafio Lista - Resposta 01](#17-desafio-lista---resposta-01)
 		- [18. Desafio Lista - Resposta 02](#18-desafio-lista---resposta-02)
+		- [19. Desafio Lista - Resposta 03](#19-desafio-lista---resposta-03)
 
 
 ## Seção 1: Introdução
@@ -138,5 +139,9 @@ Comando para criar projeto Next.js:
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/8c7ac8b6cf8b04c3fdeb25dc3ef63c90fd2f09ec)
 
 ### 18. Desafio Lista - Resposta 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/4aa0e69cd5d5c393bc100e1556e481cd534c05f0)
+
+### 19. Desafio Lista - Resposta 03
 
 [Commit]()
