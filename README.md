@@ -27,6 +27,7 @@
 		- [22. Usando o Componente](#22-usando-o-componente)
 		- [23. Propriedade do componente](#23-propriedade-do-componente)
 		- [24. Integração com CSS 01](#24-integração-com-css-01)
+		- [25. Integração com CSS 02](#25-integração-com-css-02)
 
 
 ## Seção 1: Introdução
@@ -168,5 +169,9 @@ Comando para criar projeto Next.js:
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/e70864b0d2b16ae8847c99b8c3556aaceb4041c2)
 
 ### 24. Integração com CSS 01
+
+[commit](https://github.com/Alexandresl/curso-next-react/tree/5b744fff17349262b5bc70ffd4fe2be1f09f8413)
+
+### 25. Integração com CSS 02
 
 [commit]()
