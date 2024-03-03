@@ -28,6 +28,7 @@
 		- [23. Propriedade do componente](#23-propriedade-do-componente)
 		- [24. Integração com CSS 01](#24-integração-com-css-01)
 		- [25. Integração com CSS 02](#25-integração-com-css-02)
+		- [26. Props somente leitura](#26-props-somente-leitura)
 
 
 ## Seção 1: Introdução
@@ -174,4 +175,8 @@ Comando para criar projeto Next.js:
 
 ### 25. Integração com CSS 02
 
-[commit]()
+[commit](https://github.com/Alexandresl/curso-next-react/tree/9b91e3b5e20ed94ff674762629c21e545a5c635a)
+
+### 26. Props somente leitura
+
+[Commit]()
