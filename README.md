@@ -26,6 +26,7 @@
 		- [21. Fragment 02](#21-fragment-02)
 		- [22. Usando o Componente](#22-usando-o-componente)
 		- [23. Propriedade do componente](#23-propriedade-do-componente)
+		- [24. Integração com CSS 01](#24-integração-com-css-01)
 
 
 ## Seção 1: Introdução
@@ -164,4 +165,8 @@ Comando para criar projeto Next.js:
 
 ### 23. Propriedade do componente
 
-[Commit]()
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/e70864b0d2b16ae8847c99b8c3556aaceb4041c2)
+
+### 24. Integração com CSS 01
+
+[commit]()

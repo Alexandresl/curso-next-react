@@ -1,4 +1,5 @@
-import Titulo from "../../components/Titulo";
+import Titulo from "@/components/Titulo";
+
 
 export default function usandoTitulo() {
   return (
@@ -10,6 +11,12 @@ export default function usandoTitulo() {
       <Titulo
         principal="Página de login"
         secundario="Informe seu e-mail e senha"
+				pequeno={true}
+      />
+			<Titulo
+        principal="Página de login"
+        secundario="Informe seu e-mail e senha"
+				pequeno
       />
     </>
   );
