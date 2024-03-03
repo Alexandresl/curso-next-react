@@ -29,6 +29,7 @@
 		- [24. Integração com CSS 01](#24-integração-com-css-01)
 		- [25. Integração com CSS 02](#25-integração-com-css-02)
 		- [26. Props somente leitura](#26-props-somente-leitura)
+		- [27. Aplicando estilo CSS](#27-aplicando-estilo-css)
 
 
 ## Seção 1: Introdução
@@ -178,5 +179,9 @@ Comando para criar projeto Next.js:
 [commit](https://github.com/Alexandresl/curso-next-react/tree/9b91e3b5e20ed94ff674762629c21e545a5c635a)
 
 ### 26. Props somente leitura
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/6d8d6945baf11f72b1293334cbfab5d74e4899ab)
+
+### 27. Aplicando estilo CSS
 
 [Commit]()
