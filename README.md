@@ -31,6 +31,7 @@
 		- [26. Props somente leitura](#26-props-somente-leitura)
 		- [27. Aplicando estilo CSS](#27-aplicando-estilo-css)
 		- [28. Projeto Tabuleiro 01](#28-projeto-tabuleiro-01)
+		- [29. Projeto Tabuleiro 02](#29-projeto-tabuleiro-02)
 
 
 ## Seção 1: Introdução
@@ -188,5 +189,9 @@ Comando para criar projeto Next.js:
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/e91066f5be05b64a8cc0c7d88ce7f970de646ee9)
 
 ### 28. Projeto Tabuleiro 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/0fd769b6b6b0318472f2df6df8374ef9a444169b)
+
+### 29. Projeto Tabuleiro 02
 
 [Commit]()
