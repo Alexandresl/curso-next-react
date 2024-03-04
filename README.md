@@ -30,6 +30,7 @@
 		- [25. Integração com CSS 02](#25-integração-com-css-02)
 		- [26. Props somente leitura](#26-props-somente-leitura)
 		- [27. Aplicando estilo CSS](#27-aplicando-estilo-css)
+		- [28. Projeto Tabuleiro 01](#28-projeto-tabuleiro-01)
 
 
 ## Seção 1: Introdução
@@ -183,5 +184,9 @@ Comando para criar projeto Next.js:
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/6d8d6945baf11f72b1293334cbfab5d74e4899ab)
 
 ### 27. Aplicando estilo CSS
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/e91066f5be05b64a8cc0c7d88ce7f970de646ee9)
+
+### 28. Projeto Tabuleiro 01
 
 [Commit]()
