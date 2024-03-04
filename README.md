@@ -33,6 +33,7 @@
 		- [28. Projeto Tabuleiro 01](#28-projeto-tabuleiro-01)
 		- [29. Projeto Tabuleiro 02](#29-projeto-tabuleiro-02)
 		- [30. Projeto Tabuleiro 03](#30-projeto-tabuleiro-03)
+		- [31. Projeto Tabuleiro 04](#31-projeto-tabuleiro-04)
 
 
 ## Seção 1: Introdução
@@ -198,5 +199,9 @@ Comando para criar projeto Next.js:
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/a0ddeb39b76ea1d37dddea4718e4e131db14416e)
 
 ### 30. Projeto Tabuleiro 03
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/54f99e3f783917d8f939ddbaaf6865e32e1a463e)
+
+### 31. Projeto Tabuleiro 04
 
 [Commit]()
