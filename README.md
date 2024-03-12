@@ -6,6 +6,7 @@
     - [2. Visão geral do Curso](#2-visão-geral-do-curso)
     - [3. Pré-requisitos](#3-pré-requisitos)
     - [4. O que é Next.js](#4-o-que-é-nextjs)
+    - [5. Recado sobre TypeScript](#5-recado-sobre-typescript)
 
 ## Seção 1: Introdução
 
@@ -22,5 +23,9 @@
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/be201ae77c1a317e3e98d3d3acf718bf3402a56e)
 
 ### 4. O que é Next.js
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/0e329a3914bb594bc333172ae81d8e513568d624)
+
+### 5. Recado sobre TypeScript
 
 [Commit]()
