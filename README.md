@@ -73,7 +73,7 @@ Bons estudos galera!
 
 ### 8. Código fonte final
 
-[Arquivo](\Assets\exercicios.zip)
+[Arquivo](/Assets/exercicios.zip)
 
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/bf3d0e2cdf97a4582931091b1e439fa9629fece4)
 
@@ -83,4 +83,4 @@ Bons estudos galera!
 
 ### 10. Primeiro componente
 
-[Commit]()
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/b3c70ef5142f30b9127a34cb99d10320f8816019)
