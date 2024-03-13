@@ -12,6 +12,7 @@
     - [7. Introdução do Módulo](#7-introdução-do-módulo)
     - [8. Código fonte final](#8-código-fonte-final)
     - [9. Criando o projeto](#9-criando-o-projeto)
+    - [10. Primeiro componente](#10-primeiro-componente)
 
 ## Seção 1: Introdução
 
@@ -72,10 +73,14 @@ Bons estudos galera!
 
 ### 8. Código fonte final
 
-[Arquivo](Assets\exercicios.zip)
+[Arquivo](\Assets\exercicios.zip)
 
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/bf3d0e2cdf97a4582931091b1e439fa9629fece4)
 
 ### 9. Criando o projeto
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/183772b409bb70e082500abaa9d0d91d3f5d6fd6)
+
+### 10. Primeiro componente
 
 [Commit]()
