@@ -13,6 +13,7 @@
     - [8. Código fonte final](#8-código-fonte-final)
     - [9. Criando o projeto](#9-criando-o-projeto)
     - [10. Primeiro componente](#10-primeiro-componente)
+    - [11. Movendo o primeiro componente](#11-movendo-o-primeiro-componente)
 
 ## Seção 1: Introdução
 
@@ -71,5 +72,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/50c357013216dfe9f4c24472328d17e0c2892d12)
 
 ### 10. Primeiro componente
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/8ad5a1d73124f50646e856535ddea77f9aca4d91)
+
+### 11. Movendo o primeiro componente
 
 [Commit]()
