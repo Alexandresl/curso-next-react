@@ -25,6 +25,7 @@
     - [20. Fragment 01](#20-fragment-01)
     - [21. Fragment 02](#21-fragment-02)
     - [22. Usando o componente](#22-usando-o-componente)
+    - [23. Propriedade componente](#23-propriedade-componente)
 
 ## Seção 1: Introdução
 
@@ -131,5 +132,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/dddfdf1df3e3a9475a5cf49b3d4ec88f9310b77a)
 
 ### 22. Usando o componente
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/ee44cad6c40afd02ae1639edca7ae9f3cc8c392f)
+
+### 23. Propriedade componente
 
 [Commit]()
