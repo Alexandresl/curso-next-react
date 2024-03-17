@@ -17,6 +17,7 @@
     - [12. JSX 01](#12-jsx-01)
     - [13. JSX 02](#13-jsx-02)
     - [14. JSX 03](#14-jsx-03)
+    - [15. JSX 04](#15-jsx-04)
 
 ## Seção 1: Introdução
 
@@ -91,5 +92,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/e1f8aff18508d4a4a3b951ff1fc141ebfdb25191)
 
 ### 14. JSX 03
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/28070916f62dde4432d51b807997723ef35a8dfa)
+
+### 15. JSX 04
 
 [Commit]()
