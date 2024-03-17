@@ -24,6 +24,7 @@
     - [19. Desafio lista - Resposta 03](#19-desafio-lista---resposta-03)
     - [20. Fragment 01](#20-fragment-01)
     - [21. Fragment 02](#21-fragment-02)
+    - [22. Usando o componente](#22-usando-o-componente)
 
 ## Seção 1: Introdução
 
@@ -126,5 +127,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/671a6de0d0b1d034515c7894608b1c606e1922b3)
 
 ### 21. Fragment 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/dddfdf1df3e3a9475a5cf49b3d4ec88f9310b77a)
+
+### 22. Usando o componente
 
 [Commit]()
