@@ -21,6 +21,7 @@
     - [16. Desafio lista](#16-desafio-lista)
     - [17. Desafio lista - Resposta 01](#17-desafio-lista---resposta-01)
     - [18. Desafio lista - Resposta 02](#18-desafio-lista---resposta-02)
+    - [19. Desafio lista - Resposta 03](#19-desafio-lista---resposta-03)
 
 ## Seção 1: Introdução
 
@@ -111,5 +112,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/0b652ea4ba09a789d5a46e36dd9a8257fb160161)
 
 ### 18. Desafio lista - Resposta 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/9dcd6483a9e7dd378076b770179f0d2c5e4ff1ea)
+
+### 19. Desafio lista - Resposta 03
 
 [Commit]()
