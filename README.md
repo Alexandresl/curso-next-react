@@ -5,6 +5,7 @@
     - [1. Introdução](#1-introdução)
     - [2. Visão geral do curso](#2-visão-geral-do-curso)
     - [3. Pré-requisitos](#3-pré-requisitos)
+    - [4. O que é Next.js](#4-o-que-é-nextjs)
 
 ## Seção 1: Introdução
 
@@ -17,5 +18,9 @@
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/6ca025e8c546c832e987f4350f7c49473d1c8df8)
 
 ### 3. Pré-requisitos
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/ee4a05ef619e4d77c4e3e4d1097f8d945df95147)
+
+### 4. O que é Next.js
 
 [Commit]()
