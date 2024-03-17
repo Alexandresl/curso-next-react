@@ -11,6 +11,7 @@
   - [Seção 2: Revisão React](#seção-2-revisão-react)
     - [7. Introdução do módulo](#7-introdução-do-módulo)
     - [8. Código fonte final](#8-código-fonte-final)
+    - [9. Criando o projeto](#9-criando-o-projeto)
 
 ## Seção 1: Introdução
 
@@ -61,5 +62,9 @@ Bons estudos galera!
 ### 8. Código fonte final
 
 [Arquivo](/Arquivos/exercicios.zip)
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/0190865f1a9816ed432c509963f77fc2281a5bb8)
+
+### 9. Criando o projeto
 
 [Commit]()
