@@ -20,6 +20,7 @@
     - [15. JSX 04](#15-jsx-04)
     - [16. Desafio lista](#16-desafio-lista)
     - [17. Desafio lista - Resposta 01](#17-desafio-lista---resposta-01)
+    - [18. Desafio lista - Resposta 02](#18-desafio-lista---resposta-02)
 
 ## Seção 1: Introdução
 
@@ -106,5 +107,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/ff98877732ea7d2631abc40164c828d4bf30cd97)
 
 ### 17. Desafio lista - Resposta 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/0b652ea4ba09a789d5a46e36dd9a8257fb160161)
+
+### 18. Desafio lista - Resposta 02
 
 [Commit]()
