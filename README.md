@@ -10,6 +10,7 @@
     - [6. Aviso importante aos usuários de Windows](#6-aviso-importante-aos-usuários-de-windows)
   - [Seção 2: Revisão React](#seção-2-revisão-react)
     - [7. Introdução do módulo](#7-introdução-do-módulo)
+    - [8. Código fonte final](#8-código-fonte-final)
 
 ## Seção 1: Introdução
 
@@ -54,5 +55,11 @@ Bons estudos galera!
 ## Seção 2: Revisão React
 
 ### 7. Introdução do módulo
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/0c84d15b0ef5fb25db82b214dddde540a6586376)
+
+### 8. Código fonte final
+
+[Arquivo](/Arquivos/exercicios.zip)
 
 [Commit]()
