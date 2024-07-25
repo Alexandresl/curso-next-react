@@ -12,6 +12,7 @@
     - [7. Introdução ao módulo](#7-introdução-ao-módulo)
     - [8. Código fonte final](#8-código-fonte-final)
     - [9. Criando o projeto](#9-criando-o-projeto)
+    - [10. Primeiro componente](#10-primeiro-componente)
 
 ## Seção 1: Introdução
 
@@ -79,5 +80,9 @@ Bons estudos galera!
 
 - Comando para criação do projeto: `npx create-next-app [nome da aplicação]`
 - Comando para iniciar em modo de desenvolvedor: `npm run dev`
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/8eee1c79bf7be6e77cb587b4d5237d9def0d8be4)
+
+### 10. Primeiro componente
 
 [Commit]()
