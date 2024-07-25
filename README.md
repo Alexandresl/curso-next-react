@@ -11,6 +11,7 @@
   - [Seção 2: Revisão React](#seção-2-revisão-react)
     - [7. Introdução ao módulo](#7-introdução-ao-módulo)
     - [8. Código fonte final](#8-código-fonte-final)
+    - [9. Criando o projeto](#9-criando-o-projeto)
 
 ## Seção 1: Introdução
 
@@ -71,5 +72,12 @@ Bons estudos galera!
 ### 8. Código fonte final
 
 [Arquivo](./Arquivos/exercicios.zip)
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/86ac503bb6c0c9a1c1c0983d99af772663fbf8ec)
+
+### 9. Criando o projeto
+
+- Comando para criação do projeto: `npx create-next-app [nome da aplicação]`
+- Comando para iniciar em modo de desenvolvedor: `npm run dev`
 
 [Commit]()
