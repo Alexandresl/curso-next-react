@@ -27,6 +27,7 @@
     - [22. Usando Componente](#22-usando-componente)
     - [23. Propriedade Componente](#23-propriedade-componente)
     - [24. Integração com CSS 01](#24-integração-com-css-01)
+    - [25. Integracao com CSS 02](#25-integracao-com-css-02)
 
 ## Seção 1: Introdução
 
@@ -154,5 +155,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/2917bb77661923f659d6eab5a7f0dcdde3292262)
 
 ### 24. Integração com CSS 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/19bb1c6317ab1be20afdf73e926b68feec32d1bf)
+
+### 25. Integracao com CSS 02
 
 [Commit]()
