@@ -45,6 +45,7 @@
     - [40. Comunicação indireta](#40-comunicação-indireta)
     - [41. Componente com estado](#41-componente-com-estado)
     - [42. Desafio contador](#42-desafio-contador)
+    - [43. Desafio contador - Resposta](#43-desafio-contador---resposta)
 
 ## Seção 1: Introdução
 
@@ -244,5 +245,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/81cba2b368f4a33c8ab2ca768b16272e458834b3)
 
 ### 42. Desafio contador
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/26d2412375cb650339e5e3bec3beb2c18b073f27)
+
+### 43. Desafio contador - Resposta
 
 [Commit]()
