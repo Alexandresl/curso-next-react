@@ -1,0 +1,7 @@
+.conteudo {
+  display: flex;
+  height: 100vh;
+  background-color: #3d3d3d;
+  align-items: center;
+  justify-content: center;
+}

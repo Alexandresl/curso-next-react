@@ -30,6 +30,7 @@
     - [25. Integracao com CSS 02](#25-integracao-com-css-02)
     - [26. Props somente leitura](#26-props-somente-leitura)
     - [27. Aplicando estilo CSS](#27-aplicando-estilo-css)
+    - [28. Projeto Tabuleiro 01](#28-projeto-tabuleiro-01)
 
 ## Seção 1: Introdução
 
@@ -169,5 +170,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/dfc9f6ef1de2524052f944e468a9beef11c09552)
 
 ### 27. Aplicando estilo CSS
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/22b74f27376889fd5a4b482c967698a22ec65354)
+
+### 28. Projeto Tabuleiro 01
 
 [Commit]()
