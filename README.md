@@ -28,6 +28,7 @@
     - [23. Propriedade Componente](#23-propriedade-componente)
     - [24. Integração com CSS 01](#24-integração-com-css-01)
     - [25. Integracao com CSS 02](#25-integracao-com-css-02)
+    - [26. Props somente leitura](#26-props-somente-leitura)
 
 ## Seção 1: Introdução
 
@@ -159,5 +160,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/19bb1c6317ab1be20afdf73e926b68feec32d1bf)
 
 ### 25. Integracao com CSS 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/d1080d106b1e05cb6769a4743342ad38e79e2c7d)
+
+### 26. Props somente leitura
 
 [Commit]()
