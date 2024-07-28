@@ -34,6 +34,7 @@
     - [29. Projeto Tabuleiro 02](#29-projeto-tabuleiro-02)
     - [30. Projeto Tabuleiro 03](#30-projeto-tabuleiro-03)
     - [31. Projeto Tabuleiro 04](#31-projeto-tabuleiro-04)
+    - [32. Projeto Tabuleiro 05](#32-projeto-tabuleiro-05)
 
 ## Seção 1: Introdução
 
@@ -189,5 +190,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/f02887c0d5a841519a623767550c7ba2978328b4)
 
 ### 31. Projeto Tabuleiro 04
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/a9e6a0cb18dbd2c545c8172bfcd652b7b313399b)
+
+### 32. Projeto Tabuleiro 05
 
 [Commit]()
