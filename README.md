@@ -42,6 +42,7 @@
     - [37. Condicional 02](#37-condicional-02)
     - [38. Comunicação direta](#38-comunicação-direta)
     - [39. Chamada da Função via Evento](#39-chamada-da-função-via-evento)
+    - [40. Comunicação indireta](#40-comunicação-indireta)
 
 ## Seção 1: Introdução
 
@@ -230,4 +231,8 @@ Bons estudos galera!
 
 ### 39. Chamada da Função via Evento
 
-[Commit]()
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/52693f6f856274329bb83d505b088b11dcce161e)
+
+### 40. Comunicação indireta
+
+[commit]()
