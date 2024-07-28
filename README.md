@@ -40,6 +40,7 @@
     - [35. Condicional 01](#35-condicional-01)
     - [36. Props Children](#36-props-children)
     - [37. Condicional 02](#37-condicional-02)
+    - [38. Comunicação direta](#38-comunicação-direta)
 
 ## Seção 1: Introdução
 
@@ -219,5 +220,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/51e1a5f6bc672cd2428123e6cbb76f6e397584d3)
 
 ### 37. Condicional 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/d7d63b4b49480e947fc56865b96fdeede27d7967)
+
+### 38. Comunicação direta
 
 [Commit]()
