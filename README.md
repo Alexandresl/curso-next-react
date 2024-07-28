@@ -37,6 +37,7 @@
     - [32. Projeto Tabuleiro 05](#32-projeto-tabuleiro-05)
     - [33. Repetição 01](#33-repetição-01)
     - [34. Repetição 02](#34-repetição-02)
+    - [35. Condicional 01](#35-condicional-01)
 
 ## Seção 1: Introdução
 
@@ -204,5 +205,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/5bef7df866c554ca94f4626e6f01afdc2e43cdb5)
 
 ### 34. Repetição 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/5cb8bccdf6d96c57d92071a34d6ce3abb6756e9f)
+
+### 35. Condicional 01
 
 [Commit]()
