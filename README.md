@@ -41,6 +41,7 @@
     - [36. Props Children](#36-props-children)
     - [37. Condicional 02](#37-condicional-02)
     - [38. Comunicação direta](#38-comunicação-direta)
+    - [39. Chamada da Função via Evento](#39-chamada-da-função-via-evento)
 
 ## Seção 1: Introdução
 
@@ -224,5 +225,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/d7d63b4b49480e947fc56865b96fdeede27d7967)
 
 ### 38. Comunicação direta
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/474e30412cf9bd6c5f018c32394010dd41722d7d)
+
+### 39. Chamada da Função via Evento
 
 [Commit]()
