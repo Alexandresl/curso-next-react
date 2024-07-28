@@ -38,6 +38,7 @@
     - [33. Repetição 01](#33-repetição-01)
     - [34. Repetição 02](#34-repetição-02)
     - [35. Condicional 01](#35-condicional-01)
+    - [36. Props Children](#36-props-children)
 
 ## Seção 1: Introdução
 
@@ -209,5 +210,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/5cb8bccdf6d96c57d92071a34d6ce3abb6756e9f)
 
 ### 35. Condicional 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/ea1f23509ebbd367ef1ff3e178df226ce2efc7b9)
+
+### 36. Props Children
 
 [Commit]()
