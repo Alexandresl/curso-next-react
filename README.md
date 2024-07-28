@@ -32,6 +32,7 @@
     - [27. Aplicando estilo CSS](#27-aplicando-estilo-css)
     - [28. Projeto Tabuleiro 01](#28-projeto-tabuleiro-01)
     - [29. Projeto Tabuleiro 02](#29-projeto-tabuleiro-02)
+    - [30. Projeto Tabuleiro 03](#30-projeto-tabuleiro-03)
 
 ## Seção 1: Introdução
 
@@ -179,5 +180,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/120ac76f2e02340e3df8d29cc1f0c7ca8f3e5f42)
 
 ### 29. Projeto Tabuleiro 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/8a5bbf46ac298574fb09400cfe04172a4073ea4c)
+
+### 30. Projeto Tabuleiro 03
 
 [Commit]()
