@@ -29,6 +29,7 @@
     - [24. Integração com CSS 01](#24-integração-com-css-01)
     - [25. Integracao com CSS 02](#25-integracao-com-css-02)
     - [26. Props somente leitura](#26-props-somente-leitura)
+    - [27. Aplicando estilo CSS](#27-aplicando-estilo-css)
 
 ## Seção 1: Introdução
 
@@ -164,5 +165,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/d1080d106b1e05cb6769a4743342ad38e79e2c7d)
 
 ### 26. Props somente leitura
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/dfc9f6ef1de2524052f944e468a9beef11c09552)
+
+### 27. Aplicando estilo CSS
 
 [Commit]()
