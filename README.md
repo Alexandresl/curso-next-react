@@ -46,6 +46,7 @@
     - [41. Componente com estado](#41-componente-com-estado)
     - [42. Desafio contador](#42-desafio-contador)
     - [43. Desafio contador - Resposta](#43-desafio-contador---resposta)
+    - [44. Componentes controlados](#44-componentes-controlados)
 
 ## Seção 1: Introdução
 
@@ -249,5 +250,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/26d2412375cb650339e5e3bec3beb2c18b073f27)
 
 ### 43. Desafio contador - Resposta
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/551ba3079937f3db0a9cb7684c90d55cbcaa5c9d)
+
+### 44. Componentes controlados
 
 [Commit]()
