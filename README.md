@@ -48,6 +48,7 @@
     - [43. Desafio contador - Resposta](#43-desafio-contador---resposta)
     - [44. Componentes controlados](#44-componentes-controlados)
     - [45. Desafio Mega-Sena](#45-desafio-mega-sena)
+    - [46. Desafio Mega-Sena - Resposta 01](#46-desafio-mega-sena---resposta-01)
 
 ## Seção 1: Introdução
 
@@ -259,5 +260,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/a83e2bf8aa24fbb080855d4e1463a1403118ea72)
 
 ### 45. Desafio Mega-Sena
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/e3a4c8217afebdf5b2a6d63d55b8482fb9beb1e5)
+
+### 46. Desafio Mega-Sena - Resposta 01
 
 [Commit]()
