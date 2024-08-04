@@ -1,42 +1,26 @@
 import Head from "next/head";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { mega } from "@/function/functions";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
-    const [dezenas, setDezenas] = useState([])
-    const [qtde, setQtde] = useState(6);
 
-    function alterarQtde(value) {
-        setQtde(value);
+    const [qtde, setQtde] = useState(6)
+    const [numeros, setNumeros] = useState([])
+
+    useEffect(() => {
+        setNumeros(mega(qtde))
+    }, []);
+
+    function renderizarNumeros() {
+        return numeros.map((numero) => [
+            <span key={numero}>{numero}</span>
+        ])
     }
-
-    function limparNumeros() {
-
-      let tamanhoArray = dezenas.length;
-      console.log(tamanhoArray);
-
-    }
-
-    function gerarNumeros() {
-
-      limparNumeros()
-
-      const arrayNumeros = []
-
-        for (let i = 1; i <= qtde; i++) {
-            arrayNumeros.push(<span key={i}>{Math.floor(Math.random() * 60)}</span>)
-        }
-
-        console.log(arrayNumeros);
-
-        setDezenas([...dezenas, arrayNumeros])
-
-        return dezenas;
-    }
-
+    
     return (
         <>
             <Head>
@@ -51,20 +35,20 @@ export default function Home() {
                 />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            <main className={styles.main} onLoad={limparNumeros}>
+            <main className={styles.main}>
                 <h1 className={styles.titulo}>Desafio Mega-Sena</h1>
 
                 <div className={styles.form}>
-                    <button onClick={gerarNumeros}>Gerar Números</button>
+                    <button onClick={() => {setNumeros(mega(qtde))}}>Gerar Números</button>
                     <input
                         type="number"
                         name="Qtde"
                         value={qtde}
-                        onChange={(e) => alterarQtde(e.target.value)}
+                        onChange={event => setQtde(event.target.value)}
                     />
                 </div>
 
-                <div className={styles.numbers}>{dezenas}</div>
+                <div className={styles.numbers}>{renderizarNumeros()}</div>
             </main>
         </>
     );

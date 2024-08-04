@@ -51,6 +51,7 @@
     - [46. Desafio Mega-Sena - Resposta 01](#46-desafio-mega-sena---resposta-01)
     - [47. Desafio Mega-Sena - Resposta 02](#47-desafio-mega-sena---resposta-02)
     - [48. Desafio Mega-Sena - Resposta 03](#48-desafio-mega-sena---resposta-03)
+    - [49. Componente baseado em classe](#49-componente-baseado-em-classe)
 
 ## Seção 1: Introdução
 
@@ -274,5 +275,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/304f11e678c9cb562bfed87eb885c8dcf49eb8b4)
 
 ### 48. Desafio Mega-Sena - Resposta 03
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/4a97f700670b2eea74eff634ff9b3a45923b0061)
+
+### 49. Componente baseado em classe
 
 [Commit]()
