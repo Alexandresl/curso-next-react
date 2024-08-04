@@ -53,6 +53,7 @@
     - [48. Desafio Mega-Sena - Resposta 03](#48-desafio-mega-sena---resposta-03)
     - [49. Componente baseado em classe](#49-componente-baseado-em-classe)
     - [50. Sistema de módulo ECMAScript](#50-sistema-de-módulo-ecmascript)
+    - [51. Integrando TypeScript](#51-integrando-typescript)
 
 ## Seção 1: Introdução
 
@@ -284,5 +285,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/c6063d38e7589d64d34497acac94df22993413f0)
 
 ### 50. Sistema de módulo ECMAScript
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/f1b646a57b5e4da25b7adef983e4b992e98addd4)
+
+### 51. Integrando TypeScript
 
 [Commit]()
