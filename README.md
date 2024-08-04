@@ -58,6 +58,7 @@
   - [Seção 3: Fundamentos do Next.JS](#seção-3-fundamentos-do-nextjs)
     - [53. Introdução o médulo](#53-introdução-o-médulo)
     - [54. Código fonte final](#54-código-fonte-final)
+    - [55. Criando o projeto](#55-criando-o-projeto)
 
 ## Seção 1: Introdução
 
@@ -309,5 +310,9 @@ Bons estudos galera!
 ### 54. Código fonte final
 
 [Arquivo](./Arquivos/nextbasico.zip)
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/6c201d09c555d4a64304fd5a7b338927b28de019)
+
+### 55. Criando o projeto
 
 [Commit]()
