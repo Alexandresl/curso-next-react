@@ -52,6 +52,7 @@
     - [47. Desafio Mega-Sena - Resposta 02](#47-desafio-mega-sena---resposta-02)
     - [48. Desafio Mega-Sena - Resposta 03](#48-desafio-mega-sena---resposta-03)
     - [49. Componente baseado em classe](#49-componente-baseado-em-classe)
+    - [50. Sistema de módulo ECMAScript](#50-sistema-de-módulo-ecmascript)
 
 ## Seção 1: Introdução
 
@@ -279,5 +280,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/4a97f700670b2eea74eff634ff9b3a45923b0061)
 
 ### 49. Componente baseado em classe
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/c6063d38e7589d64d34497acac94df22993413f0)
+
+### 50. Sistema de módulo ECMAScript
 
 [Commit]()
