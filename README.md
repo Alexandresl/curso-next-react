@@ -59,6 +59,7 @@
     - [53. Introdução o médulo](#53-introdução-o-médulo)
     - [54. Código fonte final](#54-código-fonte-final)
     - [55. Criando o projeto](#55-criando-o-projeto)
+    - [56. Estrutura do projeto](#56-estrutura-do-projeto)
 
 ## Seção 1: Introdução
 
@@ -314,5 +315,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/6c201d09c555d4a64304fd5a7b338927b28de019)
 
 ### 55. Criando o projeto
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/7982ddd86646c0f58e24ae83228510c4f400085b)
+
+### 56. Estrutura do projeto
 
 [Commit]()
