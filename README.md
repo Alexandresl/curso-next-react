@@ -62,6 +62,7 @@
     - [56. Estrutura do projeto](#56-estrutura-do-projeto)
     - [57. Pasta Page](#57-pasta-page)
     - [58. Rotas 01](#58-rotas-01)
+    - [59. Rotas 02](#59-rotas-02)
 
 ## Seção 1: Introdução
 
@@ -329,5 +330,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/c8e8844a982ae546b1ce9147be774f9ceb01063c)
 
 ### 58. Rotas 01
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/c38750c9a53ef3336255213e17e0aa53bad1e819)
+
+### 59. Rotas 02
 
 [Commit]()
