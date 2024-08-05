@@ -63,6 +63,7 @@
     - [57. Pasta Page](#57-pasta-page)
     - [58. Rotas 01](#58-rotas-01)
     - [59. Rotas 02](#59-rotas-02)
+    - [60. Rotas 03](#60-rotas-03)
 
 ## Seção 1: Introdução
 
@@ -334,5 +335,9 @@ Bons estudos galera!
 [Commit](https://github.com/Alexandresl/curso-next-react/tree/c38750c9a53ef3336255213e17e0aa53bad1e819)
 
 ### 59. Rotas 02
+
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/8967f4aa84151d8c892969ad3174aa45210a1bd4)
+
+### 60. Rotas 03
 
 [Commit]()
