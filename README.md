@@ -8,4 +8,8 @@
 
 ### 2. Visão Geral do Curso
 
+[Commit](https://github.com/Alexandresl/curso-next-react/tree/fb8aea46f4ab505f31e80e48bdefa5c338519b0d)
+
+### 3. Pré-Requisitos
+
 [Commit]()
